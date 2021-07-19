@@ -1,3 +1,5 @@
-File	Path
-1	/diskmnt/Datasets/Alchemist/Processed/expression/mRNA/mrna_count_FPKM_UQ.csv
-2	/diskmnt/Datasets/Alchemist/Processed/expression/mRNA/mrna_count_FPKM_UQ.csv.tsv
+File	Path	Description
+1	/diskmnt/Datasets/Alchemist/Processed/expression/mRNA/mrna_count_FPKM_UQ.csv	original file provided by collaborators
+2	/diskmnt/Datasets/Alchemist/Processed/expression/mRNA/mrna_count_FPKM_UQ.csv.tsv	TSV version of (1)
+3	/diskmnt/Datasets/Alchemist/Processed/expression/mRNA/mrna_count_FPKM_UQ.csv.annotated.tsv	Annotated version of (2) using Ensemble gene symbols
+
