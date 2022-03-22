@@ -1,0 +1,203 @@
+case	disease	ethnicity	gender	race	days_to_birth
+CTSP-ACY0	CTSP-ACY0	Unknown	male	Unknown	-14106
+CTSP-ACY1	CTSP-ACY1	not hispanic or latino	male	white	-26555
+CTSP-ACY2	CTSP-ACY2	not hispanic or latino	male	white	-17011
+CTSP-ACY3	CTSP-ACY3	hispanic or latino	female	Unknown	-15290
+CTSP-ACY4	CTSP-ACY4	not hispanic or latino	male	white	-22090
+CTSP-ACY5	CTSP-ACY5	not hispanic or latino	female	white	-20380
+CTSP-ACY6	CTSP-ACY6	not hispanic or latino	male	white	-22073
+CTSP-ACY7	CTSP-ACY7	not hispanic or latino	male	black or african american	-26302
+CTSP-ACY8	CTSP-ACY8	not hispanic or latino	female	american indian or alaska native	-27945
+CTSP-ACY9	CTSP-ACY9	not hispanic or latino	male	asian	-27222
+CTSP-ACYC	CTSP-ACYC	not hispanic or latino	male	white	-14377
+CTSP-ACYE	CTSP-ACYE	not hispanic or latino	female	white	-7743
+CTSP-ACYG	CTSP-ACYG	not hispanic or latino	female	white	-24640
+CTSP-ACYH	CTSP-ACYH	not hispanic or latino	female	white	-15776
+CTSP-ACYI	CTSP-ACYI	not hispanic or latino	male	black or african american	-19419
+CTSP-ACYJ	CTSP-ACYJ	not reported	female	not reported	null
+CTSP-ACYK	CTSP-ACYK	not hispanic or latino	female	white	-21498
+CTSP-ACYM	CTSP-ACYM	not hispanic or latino	male	white	-20535
+CTSP-ACYP	CTSP-ACYP	not hispanic or latino	female	white	-16329
+CTSP-ACYS	CTSP-ACYS	Unknown	female	white	-17778
+CTSP-ACYT	CTSP-ACYT	not hispanic or latino	male	black or african american	-12126
+CTSP-ACYV	CTSP-ACYV	not hispanic or latino	male	white	-26054
+CTSP-ACYW	CTSP-ACYW	not hispanic or latino	female	white	-24144
+CTSP-ACYX	CTSP-ACYX	hispanic or latino	male	white	-13683
+CTSP-ACYY	CTSP-ACYY	not hispanic or latino	female	white	-23704
+CTSP-ACYZ	CTSP-ACYZ	not hispanic or latino	male	white	-22617
+CTSP-ACZ1	CTSP-ACZ1	not hispanic or latino	female	black or african american	-24982
+CTSP-ACZ2	CTSP-ACZ2	not hispanic or latino	female	white	-29313
+CTSP-ACZ3	CTSP-ACZ3	not hispanic or latino	male	white	-19396
+CTSP-ACZ4	CTSP-ACZ4	not hispanic or latino	female	black or african american	-23879
+CTSP-ACZ5	CTSP-ACZ5	not hispanic or latino	male	white	-21246
+CTSP-ACZ8	CTSP-ACZ8	not hispanic or latino	female	white	-10711
+CTSP-ACZ9	CTSP-ACZ9	not hispanic or latino	female	white	-22635
+CTSP-ACZA	CTSP-ACZA	not hispanic or latino	male	white	-15022
+CTSP-ACZC	CTSP-ACZC	not hispanic or latino	female	white	-30631
+CTSP-ACZD	CTSP-ACZD	not hispanic or latino	male	black or african american	-18246
+CTSP-ACZE	CTSP-ACZE	not reported	male	not reported	null
+CTSP-ACZF	CTSP-ACZF	not hispanic or latino	female	white	-10323
+CTSP-ACZG	CTSP-ACZG	not hispanic or latino	female	black or african american	-20944
+CTSP-ACZH	CTSP-ACZH	not hispanic or latino	female	white	-27076
+CTSP-ACZI	CTSP-ACZI	not hispanic or latino	female	white	-18177
+CTSP-ACZJ	CTSP-ACZJ	not hispanic or latino	male	black or african american	-17489
+CTSP-ACZK	CTSP-ACZK	not hispanic or latino	female	white	-19701
+CTSP-ACZL	CTSP-ACZL	not hispanic or latino	female	white	-24050
+CTSP-ACZM	CTSP-ACZM	not hispanic or latino	female	black or african american	-23135
+CTSP-ACZN	CTSP-ACZN	not hispanic or latino	male	white	-22467
+CTSP-ACZO	CTSP-ACZO	not hispanic or latino	male	white	-19493
+CTSP-ACZQ	CTSP-ACZQ	not hispanic or latino	male	white	-9318
+CTSP-ACZR	CTSP-ACZR	not hispanic or latino	female	white	-13346
+CTSP-ACZS	CTSP-ACZS	not reported	male	not reported	null
+CTSP-ACZT	CTSP-ACZT	not hispanic or latino	female	white	-16221
+CTSP-ACZU	CTSP-ACZU	not hispanic or latino	female	white	-21613
+CTSP-ACZW	CTSP-ACZW	not hispanic or latino	male	white	-25168
+CTSP-ACZX	CTSP-ACZX	not hispanic or latino	male	white	-20105
+CTSP-ACZY	CTSP-ACZY	not hispanic or latino	male	white	-22811
+CTSP-ACZZ	CTSP-ACZZ	not hispanic or latino	male	asian	-23800
+CTSP-AD00	CTSP-AD00	not hispanic or latino	male	white	-21753
+CTSP-AD02	CTSP-AD02	not hispanic or latino	female	white	-24001
+CTSP-AD03	CTSP-AD03	not hispanic or latino	male	white	-27163
+CTSP-AD04	CTSP-AD04	not hispanic or latino	female	white	-21915
+CTSP-AD05	CTSP-AD05	not hispanic or latino	male	white	-22284
+CTSP-AD06	CTSP-AD06	not hispanic or latino	female	white	-28487
+CTSP-AD07	CTSP-AD07	not hispanic or latino	male	white	-23598
+CTSP-AD0X	CTSP-AD0X	not hispanic or latino	female	white	-19382
+CTSP-AD0Z	CTSP-AD0Z	Unknown	female	Unknown	-26147
+CTSP-AD10	CTSP-AD10	not hispanic or latino	male	white	-17663
+CTSP-AD11	CTSP-AD11	not hispanic or latino	female	white	-11585
+CTSP-AD12	CTSP-AD12	not hispanic or latino	female	white	-12441
+CTSP-AD13	CTSP-AD13	not hispanic or latino	female	white	-18674
+CTSP-AD14	CTSP-AD14	not hispanic or latino	male	white	-20786
+CTSP-AD15	CTSP-AD15	not hispanic or latino	male	black or african american	-14975
+CTSP-AD16	CTSP-AD16	not hispanic or latino	male	asian	-7399
+CTSP-AD18	CTSP-AD18	not hispanic or latino	female	white	-28890
+CTSP-AD19	CTSP-AD19	not hispanic or latino	female	black or african american	-29220
+CTSP-AD1A	CTSP-AD1A	Unknown	female	white	-27984
+CTSP-AD1B	CTSP-AD1B	not hispanic or latino	male	white	-15085
+CTSP-AD1C	CTSP-AD1C	not hispanic or latino	male	white	-20869
+CTSP-AD1D	CTSP-AD1D	not hispanic or latino	male	white	-23096
+CTSP-AD1E	CTSP-AD1E	not hispanic or latino	female	white	-22472
+CTSP-AD1F	CTSP-AD1F	not hispanic or latino	female	white	-23017
+CTSP-AD1G	CTSP-AD1G	not hispanic or latino	male	white	-19551
+CTSP-AD1H	CTSP-AD1H	not hispanic or latino	male	white	-30207
+CTSP-AD1I	CTSP-AD1I	not hispanic or latino	male	white	-19721
+CTSP-AD1J	CTSP-AD1J	not hispanic or latino	male	white	-29389
+CTSP-AD1M	CTSP-AD1M	not hispanic or latino	female	white	-16615
+CTSP-AD1N	CTSP-AD1N	not hispanic or latino	female	white	-17614
+CTSP-AD1O	CTSP-AD1O	not hispanic or latino	male	white	-20571
+CTSP-AD1P	CTSP-AD1P	Unknown	male	white	-24264
+CTSP-AD1Q	CTSP-AD1Q	not hispanic or latino	male	white	-7547
+CTSP-AD1R	CTSP-AD1R	not hispanic or latino	female	black or african american	-24180
+CTSP-AD1S	CTSP-AD1S	not hispanic or latino	female	white	-22410
+CTSP-AD1U	CTSP-AD1U	not hispanic or latino	male	white	-22176
+CTSP-AD1V	CTSP-AD1V	Unknown	female	white	-19234
+CTSP-AD1Y	CTSP-AD1Y	hispanic or latino	female	white	-29381
+CTSP-AD1Z	CTSP-AD1Z	not hispanic or latino	female	Unknown	-20971
+CTSP-AD21	CTSP-AD21	not hispanic or latino	female	white	-20001
+CTSP-AD22	CTSP-AD22	not hispanic or latino	male	black or african american	-6875
+CTSP-AD23	CTSP-AD23	not hispanic or latino	female	white	-20102
+CTSP-AD24	CTSP-AD24	not hispanic or latino	female	white	-28215
+CTSP-AD26	CTSP-AD26	not hispanic or latino	male	white	-24206
+CTSP-AD28	CTSP-AD28	not hispanic or latino	male	white	-9898
+CTSP-AD29	CTSP-AD29	not hispanic or latino	male	white	-21607
+CTSP-AD2B	CTSP-AD2B	not hispanic or latino	male	white	-18865
+CTSP-AD2D	CTSP-AD2D	not hispanic or latino	male	white	-25794
+CTSP-AD2E	CTSP-AD2E	not hispanic or latino	female	white	-22857
+CTSP-AD2F	CTSP-AD2F	hispanic or latino	female	american indian or alaska native	-19199
+CTSP-AD2G	CTSP-AD2G	not hispanic or latino	female	white	-15096
+CTSP-AD2J	CTSP-AD2J	not hispanic or latino	female	white	-28932
+CTSP-AD2L	CTSP-AD2L	not hispanic or latino	male	asian	-15652
+CTSP-AD2M	CTSP-AD2M	not hispanic or latino	male	white	-16151
+CTSP-AD2N	CTSP-AD2N	not hispanic or latino	female	white	-21538
+CTSP-AD2O	CTSP-AD2O	not hispanic or latino	male	white	-20636
+CTSP-AD2Q	CTSP-AD2Q	not hispanic or latino	male	white	-28301
+CTSP-AD2R	CTSP-AD2R	not hispanic or latino	female	black or african american	-19289
+CTSP-AD3U	CTSP-AD3U	not hispanic or latino	male	white	-16664
+CTSP-AD3X	CTSP-AD3X	not hispanic or latino	male	asian	-23268
+CTSP-AD3Z	CTSP-AD3Z	not hispanic or latino	male	white	-27208
+CTSP-AD41	CTSP-AD41	not hispanic or latino	female	white	-12210
+CTSP-AD43	CTSP-AD43	Unknown	female	white	-26420
+CTSP-AD44	CTSP-AD44	not hispanic or latino	female	white	-26909
+CTSP-AD45	CTSP-AD45	not hispanic or latino	male	black or african american	-25071
+CTSP-AD46	CTSP-AD46	hispanic or latino	male	white	-21144
+CTSP-AD47	CTSP-AD47	not hispanic or latino	male	white	-20555
+CTSP-AD48	CTSP-AD48	not hispanic or latino	female	white	-14540
+CTSP-AD49	CTSP-AD49	not hispanic or latino	female	white	-25702
+CTSP-AD4A	CTSP-AD4A	not hispanic or latino	male	white	-17382
+CTSP-AD4C	CTSP-AD4C	not hispanic or latino	female	white	-23090
+CTSP-AD4D	CTSP-AD4D	not hispanic or latino	male	white	-21020
+CTSP-AD4F	CTSP-AD4F	not hispanic or latino	female	white	-14027
+CTSP-AD4G	CTSP-AD4G	not hispanic or latino	male	white	-18087
+CTSP-AD4I	CTSP-AD4I	Unknown	male	black or african american	-19392
+CTSP-AD4J	CTSP-AD4J	not hispanic or latino	female	white	-16567
+CTSP-AD4K	CTSP-AD4K	not hispanic or latino	male	white	-26750
+CTSP-AD4M	CTSP-AD4M	not hispanic or latino	male	white	-26351
+CTSP-AD4N	CTSP-AD4N	not hispanic or latino	male	white	-21187
+CTSP-AD4P	CTSP-AD4P	Unknown	female	black or african american	-19418
+CTSP-AD4Q	CTSP-AD4Q	not reported	female	not reported	null
+CTSP-AD4V	CTSP-AD4V	not reported	male	not reported	null
+CTSP-AD4X	CTSP-AD4X	not hispanic or latino	male	white	-26061
+CTSP-AD4Y	CTSP-AD4Y	not hispanic or latino	male	white	-21736
+CTSP-AD50	CTSP-AD50	not reported	female	not reported	null
+CTSP-AD51	CTSP-AD51	not hispanic or latino	male	white	-14063
+CTSP-AD52	CTSP-AD52	not reported	male	not reported	null
+CTSP-ADRS	CTSP-ADRS	not hispanic or latino	female	white	-25621
+CTSP-ADRT	CTSP-ADRT	hispanic or latino	female	white	-21970
+CTSP-B02B	CTSP-B02B	not reported	male	not reported	null
+CTSP-B02C	CTSP-B02C	not hispanic or latino	female	white	-24484
+CTSP-B02D	CTSP-B02D	Unknown	female	asian	-20759
+CTSP-B02E	CTSP-B02E	not hispanic or latino	male	white	-18612
+CTSP-B02F	CTSP-B02F	not hispanic or latino	female	white	-21662
+CTSP-B02G	CTSP-B02G	not hispanic or latino	male	white	-27029
+CTSP-B02H	CTSP-B02H	not hispanic or latino	female	white	-19647
+CTSP-B02I	CTSP-B02I	not hispanic or latino	male	asian	-27426
+CTSP-B2FY	CTSP-B2FY	not hispanic or latino	male	white	-7165
+CTSP-B2G7	CTSP-B2G7	not hispanic or latino	female	white	-21549
+CTSP-B2G9	CTSP-B2G9	not hispanic or latino	female	american indian or alaska native	-13924
+CTSP-B2GM	CTSP-B2GM	not hispanic or latino	male	white	-22919
+CTSP-B2GO	CTSP-B2GO	not hispanic or latino	female	white	-20619
+CTSP-B2GW	CTSP-B2GW	not hispanic or latino	male	white	-27274
+CTSP-B2HA	CTSP-B2HA	not hispanic or latino	male	white	-21171
+CTSP-B2HC	CTSP-B2HC	hispanic or latino	male	black or african american	-9757
+CTSP-B2HF	CTSP-B2HF	not hispanic or latino	female	white	-18886
+CTSP-B2HH	CTSP-B2HH	not hispanic or latino	male	black or african american	-12261
+CTSP-B2HM	CTSP-B2HM	not hispanic or latino	female	black or african american	-22655
+CTSP-B2HN	CTSP-B2HN	not hispanic or latino	female	white	-10977
+CTSP-B2HP	CTSP-B2HP	not hispanic or latino	female	white	-18416
+CTSP-B2HQ	CTSP-B2HQ	not hispanic or latino	male	white	-25751
+CTSP-B2HR	CTSP-B2HR	not hispanic or latino	male	white	-20370
+CTSP-B2HT	CTSP-B2HT	not hispanic or latino	female	white	-18943
+CTSP-B2HV	CTSP-B2HV	hispanic or latino	female	white	-15530
+CTSP-B2HX	CTSP-B2HX	not hispanic or latino	male	black or african american	-15402
+CTSP-B2I1	CTSP-B2I1	not hispanic or latino	male	white	-19137
+CTSP-B2I2	CTSP-B2I2	not hispanic or latino	female	white	-28669
+CTSP-B2I7	CTSP-B2I7	not hispanic or latino	female	white	-19067
+CTSP-B2I9	CTSP-B2I9	Unknown	male	white	-24539
+CTSP-B2IA	CTSP-B2IA	not hispanic or latino	female	white	-20279
+CTSP-B2IB	CTSP-B2IB	not hispanic or latino	male	white	-9738
+CTSP-B2IC	CTSP-B2IC	not hispanic or latino	male	white	-19841
+CTSP-B2ID	CTSP-B2ID	not hispanic or latino	female	white	-24386
+CTSP-B2IF	CTSP-B2IF	not hispanic or latino	male	white	-11409
+CTSP-B2IN	CTSP-B2IN	not hispanic or latino	female	white	-11957
+CTSP-B2IO	CTSP-B2IO	not hispanic or latino	male	white	-29103
+CTSP-B2IQ	CTSP-B2IQ	not hispanic or latino	male	white	-25926
+CTSP-B2IT	CTSP-B2IT	not hispanic or latino	male	white	-17388
+CTSP-B2IU	CTSP-B2IU	not hispanic or latino	female	white	-27465
+CTSP-B2IV	CTSP-B2IV	not hispanic or latino	male	white	-21013
+CTSP-B2J6	CTSP-B2J6	not hispanic or latino	male	white	-16971
+CTSP-B2J7	CTSP-B2J7	not hispanic or latino	female	white	-23322
+CTSP-B2JC	CTSP-B2JC	not hispanic or latino	male	white	-26496
+CTSP-B2JI	CTSP-B2JI	not hispanic or latino	male	white	-16966
+CTSP-B2JK	CTSP-B2JK	not hispanic or latino	male	white	-25851
+CTSP-B2JM	CTSP-B2JM	not hispanic or latino	female	white	-19357
+CTSP-B2JN	CTSP-B2JN	not hispanic or latino	female	white	-22854
+CTSP-B2JT	CTSP-B2JT	not hispanic or latino	male	white	-19423
+CTSP-B2JY	CTSP-B2JY	not hispanic or latino	male	black or african american	-23970
+CTSP-B2K1	CTSP-B2K1	not hispanic or latino	male	black or african american	-9447
+CTSP-B2K3	CTSP-B2K3	not hispanic or latino	female	white	-18246
+CTSP-B2K7	CTSP-B2K7	not hispanic or latino	female	white	-17735
+CTSP-B2KB	CTSP-B2KB	not hispanic or latino	female	white	-17267
+CTSP-B2KK	CTSP-B2KK	not hispanic or latino	male	asian	-20436
+CTSP-B2L1	CTSP-B2L1	not hispanic or latino	female	white	-14554
+CTSP-B2LH	CTSP-B2LH	not hispanic or latino	male	white	-23483
