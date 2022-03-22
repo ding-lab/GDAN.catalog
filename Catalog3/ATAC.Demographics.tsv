@@ -1,0 +1,405 @@
+case	disease	ethnicity	gender	race	days_to_birth
+TCGA-06-A5U0	GBM	not hispanic or latino	female	black or african american	-7958
+TCGA-06-A6S1	GBM	not hispanic or latino	female	black or african american	-19443
+TCGA-06-A7TK	GBM	not hispanic or latino	male	black or african american	-23674
+TCGA-06-A7TL	GBM	not hispanic or latino	female	black or african american	-11297
+TCGA-2G-AAFM	TGCT	not hispanic or latino	male	white	-11607
+TCGA-2G-AAFO	TGCT	not hispanic or latino	male	white	-12298
+TCGA-2G-AAGS	TGCT	not hispanic or latino	male	white	-14312
+TCGA-2G-AAH8	TGCT	not hispanic or latino	male	white	-16687
+TCGA-2G-AAKG	TGCT	not hispanic or latino	male	white	-8353
+TCGA-2K-A9WE	KIRP	not hispanic or latino	male	white	-19603
+TCGA-33-A4WN	LUSC	not hispanic or latino	male	white	-22268
+TCGA-37-A5EM	LUSC	not hispanic or latino	male	white	-18011
+TCGA-3C-AALJ	BRCA	not hispanic or latino	female	black or african american	-22848
+TCGA-3L-AA1B	COAD	not hispanic or latino	female	black or african american	-22379
+TCGA-3U-A98E	MESO	not hispanic or latino	female	white	-26264
+TCGA-3U-A98I	MESO	not hispanic or latino	male	white	-25108
+TCGA-3X-AAVA	CHOL	not hispanic or latino	female	white	-18303
+TCGA-3Z-A93Z	KIRC	not hispanic or latino	male	black or african american	-25205
+TCGA-44-3918	LUAD	not hispanic or latino	female	white	-22236
+TCGA-44-6146	LUAD	not hispanic or latino	male	white	-23378
+TCGA-44-A47F	LUAD	not hispanic or latino	male	white	-27122
+TCGA-49-AARO	LUAD	not hispanic or latino	female	black or african american	-14527
+TCGA-4A-A93X	KIRP	not hispanic or latino	male	white	-21348
+TCGA-4A-A93Y	KIRP	not hispanic or latino	female	black or african american	-23226
+TCGA-4B-A93V	LUAD	not hispanic or latino	female	black or african american	-19035
+TCGA-4C-A93U	THCA	not hispanic or latino	female	black or african american	-27348
+TCGA-4H-AAAK	BRCA	not hispanic or latino	female	white	-18371
+TCGA-4K-AA1I	TGCT	not hispanic or latino	male	white	-9679
+TCGA-4N-A93T	COAD	not hispanic or latino	male	black or african american	-24523
+TCGA-4W-AA9S	GBM	not hispanic or latino	male	black or african american	-25545
+TCGA-63-A5MR	LUSC	not reported	female	not reported	-25879
+TCGA-6D-AA2E	KIRC	not hispanic or latino	female	black or african american	-25043
+TCGA-73-A9RS	LUAD	not hispanic or latino	male	black or african american	-15162
+TCGA-76-6656	GBM	not hispanic or latino	male	black or african american	-24265
+TCGA-77-A5G6	LUSC	not reported	male	not reported	-24215
+TCGA-81-5910	GBM	not reported	male	white	-23567
+TCGA-85-A4CL	LUSC	not hispanic or latino	male	white	-24005
+TCGA-85-A4CN	LUSC	not hispanic or latino	female	white	-20490
+TCGA-85-A4JB	LUSC	not hispanic or latino	male	white	-27315
+TCGA-85-A4QR	LUSC	not hispanic or latino	male	white	-24756
+TCGA-85-A50M	LUSC	not hispanic or latino	male	asian	-17429
+TCGA-85-A512	LUSC	not hispanic or latino	male	white	-16811
+TCGA-86-A4D0	LUAD	not hispanic or latino	male	white	-17607
+TCGA-86-A4P7	LUAD	not hispanic or latino	female	white	-23330
+TCGA-86-A4P8	LUAD	not hispanic or latino	female	white	-21738
+TCGA-91-A4BC	LUAD	not hispanic or latino	male	white	-21565
+TCGA-91-A4BD	LUAD	not hispanic or latino	male	white	-28544
+TCGA-93-A4JN	LUAD	not hispanic or latino	male	white	-26273
+TCGA-93-A4JO	LUAD	not hispanic or latino	male	white	-25898
+TCGA-93-A4JQ	LUAD	not hispanic or latino	male	white	-17951
+TCGA-98-A53A	LUSC	not hispanic or latino	male	black or african american	-25662
+TCGA-98-A53J	LUSC	not hispanic or latino	male	white	-28485
+TCGA-A2-A0CX	BRCA	not hispanic or latino	female	white	-19152
+TCGA-A2-A0ES	BRCA	not hispanic or latino	female	white	-19160
+TCGA-A2-A0ET	BRCA	not hispanic or latino	female	white	-21464
+TCGA-A2-A0EV	BRCA	not hispanic or latino	female	white	-29285
+TCGA-A2-A0EW	BRCA	not hispanic or latino	female	white	-19413
+TCGA-A2-A0EX	BRCA	not hispanic or latino	female	white	-16858
+TCGA-A2-A0EY	BRCA	not hispanic or latino	female	white	-22872
+TCGA-A2-A0SV	BRCA	not hispanic or latino	female	white	-23126
+TCGA-A2-A0SW	BRCA	not hispanic or latino	female	white	-30085
+TCGA-A2-A0SX	BRCA	not hispanic or latino	female	white	-17774
+TCGA-A2-A0T4	BRCA	not hispanic or latino	female	white	-22849
+TCGA-A2-A0T5	BRCA	not hispanic or latino	female	white	-14503
+TCGA-A2-A0T6	BRCA	not hispanic or latino	female	white	-18334
+TCGA-A2-A0T7	BRCA	not hispanic or latino	female	white	-18756
+TCGA-A2-A0YC	BRCA	not hispanic or latino	female	white	-21685
+TCGA-A2-A0YD	BRCA	not hispanic or latino	female	white	-23021
+TCGA-A2-A0YF	BRCA	not hispanic or latino	female	black or african american	-24660
+TCGA-A2-A0YG	BRCA	not hispanic or latino	female	white	-23058
+TCGA-A2-A0YH	BRCA	not hispanic or latino	female	white	-19596
+TCGA-A2-A0YJ	BRCA	not hispanic or latino	female	white	-14448
+TCGA-A2-A0YK	BRCA	not hispanic or latino	female	white	-22625
+TCGA-A2-A0YL	BRCA	not hispanic or latino	female	white	-17702
+TCGA-A2-A0YT	BRCA	not hispanic or latino	female	white	-20482
+TCGA-A2-A4RX	BRCA	not hispanic or latino	female	black or african american	-24779
+TCGA-A6-A565	COAD	not reported	female	black or african american	-12526
+TCGA-A6-A566	COAD	not hispanic or latino	female	black or african american	-20181
+TCGA-A6-A567	COAD	not reported	male	black or african american	-20493
+TCGA-A6-A56B	COAD	not hispanic or latino	male	black or african american	-20903
+TCGA-A7-A0CH	BRCA	not hispanic or latino	female	white	-29104
+TCGA-A7-A0D9	BRCA	not hispanic or latino	female	white	-13836
+TCGA-A7-A13E	BRCA	not hispanic or latino	female	white	-22690
+TCGA-A7-A13F	BRCA	not hispanic or latino	female	white	-16363
+TCGA-A8-A06N	BRCA	not reported	female	not reported	-24288
+TCGA-A8-A08J	BRCA	not reported	female	not reported	-19266
+TCGA-A8-A094	BRCA	not reported	female	not reported	-27729
+TCGA-AA-A00E	COAD	not reported	male	not reported	-23741
+TCGA-AA-A00J	COAD	not reported	male	not reported	-29371
+TCGA-AA-A00L	COAD	not reported	male	not reported	-24319
+TCGA-AA-A00Q	COAD	not reported	female	not reported	-24199
+TCGA-AA-A00W	COAD	not reported	male	not reported	-29311
+TCGA-AA-A010	COAD	not reported	female	not reported	-16922
+TCGA-AA-A01D	COAD	not reported	female	not reported	-17318
+TCGA-AA-A01P	COAD	not reported	female	not reported	-29554
+TCGA-AA-A01R	COAD	not reported	male	not reported	-17289
+TCGA-AA-A01S	COAD	not reported	female	not reported	-17257
+TCGA-AA-A01X	COAD	not reported	female	not reported	-29281
+TCGA-AA-A022	COAD	not reported	female	not reported	-32446
+TCGA-AA-A024	COAD	not reported	male	not reported	-29708
+TCGA-AA-A02E	COAD	not reported	female	not reported	-30256
+TCGA-AA-A02F	COAD	not reported	female	not reported	-25051
+TCGA-AD-6889	COAD	not reported	male	asian	null
+TCGA-AO-A03L	BRCA	not hispanic or latino	female	asian	-12443
+TCGA-AO-A03N	BRCA	not hispanic or latino	female	white	-21816
+TCGA-AO-A0J5	BRCA	not hispanic or latino	female	white	-17815
+TCGA-AO-A0J8	BRCA	not hispanic or latino	female	white	-22284
+TCGA-AO-A0JB	BRCA	not hispanic or latino	female	white	-18561
+TCGA-AO-A0JG	BRCA	not hispanic or latino	female	white	-18021
+TCGA-AO-A0JM	BRCA	hispanic or latino	female	not reported	-14653
+TCGA-AO-A124	BRCA	not hispanic or latino	female	white	-14174
+TCGA-AO-A12D	BRCA	not hispanic or latino	female	white	-15774
+TCGA-AO-A12F	BRCA	not hispanic or latino	female	white	-13409
+TCGA-AP-A051	UCEC	not reported	female	white	-25269
+TCGA-AQ-A04L	BRCA	not hispanic or latino	female	white	-17759
+TCGA-AR-A0TP	BRCA	not hispanic or latino	female	white	-15812
+TCGA-AR-A0TV	BRCA	not reported	female	not reported	-24279
+TCGA-AR-A0U0	BRCA	not reported	female	white	-26993
+TCGA-AR-A0U4	BRCA	not hispanic or latino	female	white	-19729
+TCGA-AY-A54L	COAD	not reported	female	black or african american	-27074
+TCGA-AY-A69D	COAD	not hispanic or latino	female	black or african american	-20299
+TCGA-AY-A71X	COAD	not hispanic or latino	female	black or african american	-19904
+TCGA-AY-A8YK	COAD	not hispanic or latino	male	black or african american	-16140
+TCGA-B1-A47N	KIRP	not hispanic or latino	male	white	-22800
+TCGA-B1-A654	KIRP	not hispanic or latino	female	black or african american	-15721
+TCGA-B2-A4SR	KIRC	not hispanic or latino	male	black or african american	-22637
+TCGA-B5-A0JN	UCEC	not reported	female	black or african american	-30933
+TCGA-B5-A0JT	UCEC	not reported	female	white	-23041
+TCGA-B5-A0K9	UCEC	not reported	female	white	-32289
+TCGA-B5-A0KB	UCEC	not reported	female	black or african american	-22669
+TCGA-B5-A11Y	UCEC	not reported	female	white	-21860
+TCGA-B8-A54E	KIRC	hispanic or latino	female	black or african american	-22900
+TCGA-B8-A54F	KIRC	not hispanic or latino	female	black or african american	-18028
+TCGA-B8-A54G	KIRC	not hispanic or latino	male	black or african american	-18612
+TCGA-B8-A54H	KIRC	not reported	female	black or african american	-25243
+TCGA-B8-A54J	KIRC	not hispanic or latino	male	black or african american	-22071
+TCGA-B8-A54K	KIRC	not hispanic or latino	male	black or african american	-22627
+TCGA-B8-A8YJ	KIRC	not reported	female	black or african american	-21994
+TCGA-B9-A44B	KIRP	not hispanic or latino	male	black or african american	-25763
+TCGA-B9-A5W8	KIRP	not hispanic or latino	male	black or african american	-18440
+TCGA-B9-A5W9	KIRP	not hispanic or latino	male	white	-14668
+TCGA-B9-A8YI	KIRP	not hispanic or latino	male	black or african american	-28917
+TCGA-BA-A4IH	HNSC	not hispanic or latino	male	white	-21094
+TCGA-BA-A8YP	HNSC	not hispanic or latino	male	black or african american	-18355
+TCGA-BC-A10S	LIHC	not hispanic or latino	male	white	-29842
+TCGA-BC-A10T	LIHC	not hispanic or latino	male	white	-27944
+TCGA-BC-A10U	LIHC	not hispanic or latino	male	white	-25305
+TCGA-BC-A10W	LIHC	not hispanic or latino	male	asian	-18562
+TCGA-BC-A10X	LIHC	not hispanic or latino	female	white	-19140
+TCGA-BC-A3KF	LIHC	not reported	female	white	-24328
+TCGA-BC-A5W4	LIHC	not hispanic or latino	male	white	-25503
+TCGA-BC-A8YO	LIHC	not hispanic or latino	female	white	-24189
+TCGA-BG-A0M8	UCEC	not hispanic or latino	female	white	-18308
+TCGA-BG-A0MH	UCEC	not reported	female	white	-22475
+TCGA-BG-A0MK	UCEC	not hispanic or latino	female	black or african american	-19034
+TCGA-BG-A0MS	UCEC	not hispanic or latino	female	white	-19547
+TCGA-BG-A0RY	UCEC	not hispanic or latino	female	white	-24952
+TCGA-BH-A0B1	BRCA	not reported	female	white	-24315
+TCGA-BH-A0B5	BRCA	not hispanic or latino	female	white	-14920
+TCGA-BH-A0BA	BRCA	not reported	female	white	-18839
+TCGA-BH-A0BZ	BRCA	not hispanic or latino	female	white	-21856
+TCGA-BH-A0C1	BRCA	not hispanic or latino	female	white	-22377
+TCGA-BH-A0DL	BRCA	not hispanic or latino	female	white	-23628
+TCGA-BH-A0DP	BRCA	not reported	female	white	-22199
+TCGA-BH-A0DV	BRCA	not reported	female	white	-19781
+TCGA-BH-A0E0	BRCA	not reported	female	white	-14175
+TCGA-BH-A0EE	BRCA	not reported	female	white	-24850
+TCGA-BH-A0HP	BRCA	not reported	female	white	-23883
+TCGA-BH-A1EV	BRCA	not hispanic or latino	female	white	-16504
+TCGA-BJ-A0Z0	THCA	not hispanic or latino	male	not reported	-20361
+TCGA-BJ-A0Z2	THCA	not hispanic or latino	male	black or african american	-21008
+TCGA-BJ-A0Z3	THCA	not hispanic or latino	female	white	-12295
+TCGA-BJ-A0Z5	THCA	not hispanic or latino	male	white	-21369
+TCGA-BJ-A0ZA	THCA	not hispanic or latino	female	white	-24528
+TCGA-BJ-A0ZC	THCA	not hispanic or latino	male	white	-20282
+TCGA-BJ-A192	THCA	not reported	female	white	-19878
+TCGA-BJ-A290	THCA	not hispanic or latino	male	white	-25803
+TCGA-BJ-A3PU	THCA	not hispanic or latino	male	white	-19007
+TCGA-BK-A0C9	UCEC	not hispanic or latino	female	white	-20876
+TCGA-BK-A13B	UCEC	not hispanic or latino	female	black or african american	-21493
+TCGA-BL-A13J	BLCA	not hispanic or latino	male	white	-23927
+TCGA-BL-A3JM	BLCA	not hispanic or latino	male	white	-23000
+TCGA-BR-A452	STAD	not hispanic or latino	male	asian	-21107
+TCGA-BR-A4CR	STAD	not hispanic or latino	female	white	-25669
+TCGA-BR-A4CS	STAD	not hispanic or latino	male	white	-28211
+TCGA-BR-A4IY	STAD	not hispanic or latino	male	asian	-21314
+TCGA-BR-A4J1	STAD	not hispanic or latino	male	asian	-23266
+TCGA-BR-A4J2	STAD	not hispanic or latino	male	asian	-25891
+TCGA-BR-A4J4	STAD	not hispanic or latino	male	asian	-14459
+TCGA-BR-A4J5	STAD	not hispanic or latino	male	asian	-20714
+TCGA-BR-A4J6	STAD	not hispanic or latino	female	white	-25279
+TCGA-BR-A4J7	STAD	not hispanic or latino	male	asian	-17932
+TCGA-BR-A4J9	STAD	not hispanic or latino	male	white	-20093
+TCGA-BR-A4QL	STAD	not hispanic or latino	female	white	-27668
+TCGA-C8-A12K	BRCA	not hispanic or latino	female	asian	-29463
+TCGA-C8-A12M	BRCA	not hispanic or latino	female	asian	-25811
+TCGA-C8-A12O	BRCA	not hispanic or latino	female	asian	-18506
+TCGA-C8-A12Q	BRCA	not hispanic or latino	female	asian	-28733
+TCGA-C8-A12T	BRCA	not hispanic or latino	female	asian	null
+TCGA-C8-A12U	BRCA	not hispanic or latino	female	asian	-17045
+TCGA-C8-A12V	BRCA	not hispanic or latino	female	asian	-20346
+TCGA-C8-A12Y	BRCA	not hispanic or latino	female	asian	null
+TCGA-C8-A130	BRCA	not hispanic or latino	female	asian	-19117
+TCGA-C8-A133	BRCA	not hispanic or latino	female	white	-23922
+TCGA-C8-A137	BRCA	not hispanic or latino	female	asian	-12729
+TCGA-C8-A8HR	BRCA	not hispanic or latino	female	asian	-17921
+TCGA-CC-A123	LIHC	not hispanic or latino	female	asian	-9107
+TCGA-CC-A7IF	LIHC	not hispanic or latino	male	asian	-21845
+TCGA-CD-A486	STAD	not hispanic or latino	male	asian	-24879
+TCGA-CD-A48C	STAD	not hispanic or latino	female	asian	-29203
+TCGA-CE-A13K	THCA	not hispanic or latino	female	asian	-11122
+TCGA-CF-A1HR	BLCA	not hispanic or latino	male	asian	-22777
+TCGA-CF-A3MI	BLCA	not hispanic or latino	male	asian	-22716
+TCGA-CJ-5671	KIRC	not hispanic or latino	male	white	-18954
+TCGA-CJ-5677	KIRC	not hispanic or latino	female	white	-19849
+TCGA-CJ-5679	KIRC	not hispanic or latino	male	white	-26858
+TCGA-CN-A49B	HNSC	not hispanic or latino	male	white	-26155
+TCGA-CU-A3YL	BLCA	not hispanic or latino	male	white	-24524
+TCGA-CV-A468	HNSC	hispanic or latino	male	not reported	-15372
+TCGA-D3-A8GM	SKCM	not hispanic or latino	male	white	-26782
+TCGA-D3-A8GP	SKCM	not hispanic or latino	male	white	-28234
+TCGA-D6-A6EP	HNSC	not hispanic or latino	male	white	-22674
+TCGA-D7-A4YX	STAD	not hispanic or latino	male	white	-23249
+TCGA-D7-A6EZ	STAD	not hispanic or latino	male	white	-24425
+TCGA-D8-A13Z	BRCA	not hispanic or latino	female	white	-18942
+TCGA-D9-A1JW	SKCM	not hispanic or latino	male	white	-30142
+TCGA-D9-A6EA	SKCM	not hispanic or latino	male	white	-25582
+TCGA-D9-A6EC	SKCM	not hispanic or latino	male	white	-20493
+TCGA-DA-A95W	SKCM	not reported	male	white	-19105
+TCGA-DA-A95Y	SKCM	not hispanic or latino	male	white	-25083
+TCGA-DB-A75K	LGG	not hispanic or latino	female	white	-20241
+TCGA-DD-AAC8	LIHC	not hispanic or latino	male	asian	-26322
+TCGA-DD-AACB	LIHC	not hispanic or latino	female	asian	-27103
+TCGA-DD-AACI	LIHC	not hispanic or latino	male	asian	-25236
+TCGA-DD-AACL	LIHC	not hispanic or latino	female	asian	-24355
+TCGA-DJ-A13M	THCA	not hispanic or latino	female	white	-10530
+TCGA-DJ-A13V	THCA	not hispanic or latino	female	not reported	-7915
+TCGA-DJ-A13X	THCA	not hispanic or latino	female	not reported	-18689
+TCGA-DK-A1AD	BLCA	not reported	male	white	-25317
+TCGA-DM-A28G	COAD	not hispanic or latino	male	white	-27641
+TCGA-DU-5870	LGG	not hispanic or latino	female	white	-12764
+TCGA-DU-6395	LGG	not hispanic or latino	male	white	-11584
+TCGA-DU-6407	LGG	not hispanic or latino	female	white	-13021
+TCGA-DV-A4VX	KIRC	not hispanic or latino	male	black or african american	-21670
+TCGA-E1-A7YI	LGG	not hispanic or latino	female	white	-12229
+TCGA-EA-A3HS	CESC	not hispanic or latino	female	white	-13117
+TCGA-EA-A3HT	CESC	not hispanic or latino	female	white	-25138
+TCGA-EB-A24C	SKCM	not hispanic or latino	male	white	-20539
+TCGA-EB-A3XF	SKCM	not hispanic or latino	male	white	-20910
+TCGA-EB-A3Y6	SKCM	not hispanic or latino	female	white	-20605
+TCGA-EB-A5KH	SKCM	not hispanic or latino	male	asian	-20424
+TCGA-EB-A5SH	SKCM	not hispanic or latino	female	white	-21920
+TCGA-EJ-7218	PRAD	not hispanic or latino	male	white	-26181
+TCGA-EJ-7318	PRAD	not hispanic or latino	male	white	-18686
+TCGA-EJ-A46B	PRAD	not hispanic or latino	male	white	-24305
+TCGA-EJ-A46D	PRAD	not hispanic or latino	male	white	-19466
+TCGA-EJ-A46E	PRAD	not hispanic or latino	male	white	-21054
+TCGA-EJ-A46F	PRAD	not hispanic or latino	male	white	-21160
+TCGA-EJ-A46G	PRAD	not hispanic or latino	male	white	-26219
+TCGA-EJ-A46H	PRAD	not hispanic or latino	male	black or african american	-22059
+TCGA-EJ-A65B	PRAD	not reported	male	white	-20204
+TCGA-EJ-A65F	PRAD	not reported	male	white	-21681
+TCGA-EJ-A7NG	PRAD	not reported	male	white	-23458
+TCGA-EJ-A7NM	PRAD	not reported	male	white	-23603
+TCGA-EJ-A8FN	PRAD	not reported	male	white	-21506
+TCGA-EJ-A8FP	PRAD	not reported	male	white	-21769
+TCGA-F6-A8O3	LGG	not hispanic or latino	male	asian	-12578
+TCGA-F7-A624	HNSC	not hispanic or latino	male	white	-26667
+TCGA-F9-A7Q0	KIRP	not hispanic or latino	female	asian	-13523
+TCGA-F9-A7VF	KIRP	not hispanic or latino	female	white	-27446
+TCGA-F9-A8NY	KIRP	not hispanic or latino	female	asian	-14101
+TCGA-FD-A3SR	BLCA	not hispanic or latino	male	white	-24979
+TCGA-FG-A4MU	LGG	not hispanic or latino	male	white	-21450
+TCGA-FG-A4MY	LGG	hispanic or latino	female	white	-16310
+TCGA-G3-AAV0	LIHC	not hispanic or latino	male	asian	-21249
+TCGA-GD-A3OQ	BLCA	not hispanic or latino	male	white	-17682
+TCGA-GK-A6C7	KIRC	not hispanic or latino	female	black or african american	-28107
+TCGA-GL-A9DC	KIRP	not hispanic or latino	female	white	-24348
+TCGA-GV-A3JW	BLCA	not hispanic or latino	male	white	-27091
+TCGA-H4-A2HO	BLCA	not hispanic or latino	male	white	-19630
+TCGA-H7-A76A	HNSC	not hispanic or latino	male	white	-20946
+TCGA-HE-A5NH	KIRP	not reported	male	not reported	-22888
+TCGA-HE-A5NI	KIRP	not reported	male	not reported	-26985
+TCGA-HE-A5NJ	KIRP	not reported	male	not reported	-21485
+TCGA-HE-A5NK	KIRP	not reported	male	not reported	-30088
+TCGA-HF-A5NB	STAD	not reported	female	not reported	-27676
+TCGA-IA-A40U	KIRP	not hispanic or latino	male	white	-20463
+TCGA-IA-A40X	KIRP	not hispanic or latino	female	black or african american	-18239
+TCGA-IC-A6RE	ESCA	not hispanic or latino	male	white	-21640
+TCGA-IG-A3YA	ESCA	not hispanic or latino	male	white	-19567
+TCGA-IG-A4P3	ESCA	not hispanic or latino	male	white	-17860
+TCGA-IG-A4QS	ESCA	not hispanic or latino	male	white	-26273
+TCGA-IG-A51D	ESCA	not hispanic or latino	male	white	-23259
+TCGA-IG-A625	ESCA	not hispanic or latino	male	asian	-22070
+TCGA-IG-A7DP	ESCA	not hispanic or latino	female	white	-18364
+TCGA-J1-A4AH	LUSC	not hispanic or latino	male	white	-25893
+TCGA-KC-A4BV	PRAD	not hispanic or latino	male	asian	-24138
+TCGA-KU-A66S	HNSC	not hispanic or latino	female	white	-25454
+TCGA-KU-A6H7	HNSC	not hispanic or latino	female	white	-20314
+TCGA-KV-A74V	KIRP	not hispanic or latino	male	white	-14834
+TCGA-L4-A4E6	LUAD	not hispanic or latino	male	white	-24631
+TCGA-L5-A4OE	ESCA	not reported	male	white	-29591
+TCGA-L7-A6VZ	ESCA	not hispanic or latino	male	white	-22730
+TCGA-L9-A8F4	LUAD	not hispanic or latino	female	black or african american	-23617
+TCGA-LG-A9QC	LIHC	not hispanic or latino	male	white	-17842
+TCGA-LG-A9QD	LIHC	hispanic or latino	male	white	-24969
+TCGA-LK-A4NW	MESO	not hispanic or latino	male	white	-21922
+TCGA-LK-A4NY	MESO	not hispanic or latino	female	white	-24391
+TCGA-LK-A4O6	MESO	not hispanic or latino	female	white	-24449
+TCGA-LN-A49O	ESCA	not hispanic or latino	male	asian	-17237
+TCGA-LN-A49W	ESCA	not reported	male	asian	-26910
+TCGA-LN-A4A2	ESCA	not hispanic or latino	male	asian	-21122
+TCGA-LN-A4A5	ESCA	not hispanic or latino	male	asian	-18160
+TCGA-LN-A4MR	ESCA	not hispanic or latino	male	asian	-21142
+TCGA-LN-A7HX	ESCA	not hispanic or latino	male	asian	-26517
+TCGA-LN-A8HZ	ESCA	not hispanic or latino	male	asian	-20510
+TCGA-LN-A9FQ	ESCA	not hispanic or latino	male	asian	-22717
+TCGA-M9-A5M8	ESCA	not reported	male	not reported	-21433
+TCGA-MF-A522	LUSC	not reported	male	white	-20051
+TCGA-MM-A564	KIRC	not hispanic or latino	male	black or african american	-24916
+TCGA-MP-A4SV	LUAD	not reported	male	not reported	-24516
+TCGA-MP-A4T4	LUAD	not reported	female	white	-25052
+TCGA-MP-A4T7	LUAD	not reported	female	not reported	-27603
+TCGA-MP-A4TE	LUAD	not hispanic or latino	male	white	-20627
+TCGA-MP-A4TF	LUAD	not hispanic or latino	female	white	-21387
+TCGA-MQ-A4KX	MESO	not hispanic or latino	male	white	-20336
+TCGA-NH-A50U	COAD	not hispanic or latino	male	black or african american	-15450
+TCGA-NH-A50V	COAD	not hispanic or latino	male	black or african american	-25467
+TCGA-NH-A5IV	COAD	not hispanic or latino	female	black or african american	-32872
+TCGA-NH-A6GA	COAD	not hispanic or latino	male	black or african american	-21313
+TCGA-NH-A6GC	COAD	not hispanic or latino	female	black or african american	-24355
+TCGA-NH-A8F7	COAD	not hispanic or latino	female	black or african american	-19535
+TCGA-NH-A8F8	COAD	not hispanic or latino	male	black or african american	-29185
+TCGA-NJ-A4YG	LUAD	not reported	male	white	-23812
+TCGA-O2-A52N	LUSC	not hispanic or latino	male	white	-28520
+TCGA-OR-A5J2	ACC	hispanic or latino	female	white	-16090
+TCGA-OR-A5J3	ACC	hispanic or latino	female	white	-8624
+TCGA-OR-A5J6	ACC	hispanic or latino	female	black or african american	-10839
+TCGA-OR-A5J9	ACC	hispanic or latino	female	white	-8175
+TCGA-OR-A5JZ	ACC	not reported	male	white	-22218
+TCGA-OR-A5K8	ACC	not hispanic or latino	male	white	-14435
+TCGA-OR-A5KX	ACC	not hispanic or latino	female	white	-9298
+TCGA-OX-A56R	GBM	not hispanic or latino	male	black or african american	-25178
+TCGA-P4-A5E6	KIRP	not hispanic or latino	male	black or african american	-24615
+TCGA-P4-A5EA	KIRP	not hispanic or latino	female	white	-19748
+TCGA-P4-A5EB	KIRP	not hispanic or latino	male	white	-30395
+TCGA-P4-A5ED	KIRP	hispanic or latino	male	white	-18698
+TCGA-P4-AAVL	KIRP	hispanic or latino	male	white	-31082
+TCGA-P5-A72W	LGG	not hispanic or latino	male	white	-12848
+TCGA-P5-A72X	LGG	not hispanic or latino	male	white	-7913
+TCGA-P5-A735	LGG	not hispanic or latino	female	white	-14152
+TCGA-P5-A77X	LGG	not hispanic or latino	female	white	-20128
+TCGA-PA-A5YG	ACC	not hispanic or latino	male	white	-18926
+TCGA-PJ-A8JU	KIRP	not hispanic or latino	female	white	-29830
+TCGA-PK-A5H8	ACC	not hispanic or latino	male	white	-15373
+TCGA-Q2-A5QZ	KIRP	not hispanic or latino	female	black or african american	-22531
+TCGA-QG-A5YV	COAD	not hispanic or latino	female	black or african american	-23499
+TCGA-QG-A5YX	COAD	not hispanic or latino	female	black or african american	-22617
+TCGA-QL-A97D	COAD	not reported	female	black or african american	-30914
+TCGA-QT-A5XJ	PCPG	not hispanic or latino	female	black or african american	-15535
+TCGA-QT-A5XM	PCPG	not reported	male	white	-15915
+TCGA-QT-A5XN	PCPG	not hispanic or latino	female	black or african american	-18812
+TCGA-QT-A69Q	PCPG	not hispanic or latino	male	white	-14866
+TCGA-RM-A68W	PCPG	not hispanic or latino	female	white	-15273
+TCGA-RR-A6KB	GBM	not hispanic or latino	male	black or african american	-18713
+TCGA-RT-A6YA	PCPG	not hispanic or latino	female	white	-26095
+TCGA-RW-A8AZ	PCPG	not reported	male	white	-24268
+TCGA-S3-AA0Z	BRCA	not hispanic or latino	female	black or african american	-23314
+TCGA-SH-A9CU	MESO	not hispanic or latino	male	white	-22135
+TCGA-SS-A7HO	COAD	not hispanic or latino	female	black or african american	-16416
+TCGA-SU-A7E7	PRAD	not hispanic or latino	male	white	-22185
+TCGA-TT-A6YP	PCPG	not hispanic or latino	female	white	-7240
+TCGA-UZ-A9PJ	KIRP	not hispanic or latino	male	white	-28490
+TCGA-UZ-A9PK	KIRP	not hispanic or latino	male	white	-25933
+TCGA-UZ-A9PL	KIRP	not hispanic or latino	male	white	-21550
+TCGA-UZ-A9PM	KIRP	not hispanic or latino	male	white	-22646
+TCGA-UZ-A9PP	KIRP	not hispanic or latino	male	white	-21915
+TCGA-UZ-A9PQ	KIRP	not hispanic or latino	male	black or african american	-21550
+TCGA-UZ-A9PV	KIRP	not hispanic or latino	male	white	-23741
+TCGA-VN-A88K	PRAD	not hispanic or latino	male	white	-21524
+TCGA-VP-A875	PRAD	not reported	male	black or african american	-24742
+TCGA-VQ-A8PJ	STAD	not reported	male	not reported	-19390
+TCGA-VQ-A91E	STAD	not reported	female	white	-24549
+TCGA-VQ-A91W	STAD	not reported	male	white	-10963
+TCGA-VQ-A94O	STAD	not reported	male	black or african american	-27306
+TCGA-W6-AA0T	CHOL	not hispanic or latino	female	white	-23004
+TCGA-W7-A93N	CHOL	not hispanic or latino	male	white	null
+TCGA-W9-A837	LGG	not hispanic or latino	male	white	null
+TCGA-WB-A818	PCPG	not hispanic or latino	male	white	-13596
+TCGA-XC-AA0X	LUSC	not hispanic or latino	female	black or african american	-28211
+TCGA-XE-AANI	TGCT	not hispanic or latino	male	white	-13553
+TCGA-XE-AAOD	TGCT	not hispanic or latino	male	white	-14265
+TCGA-XE-AAOF	TGCT	not hispanic or latino	male	asian	-18490
+TCGA-XV-AAZY	SKCM	not hispanic or latino	female	white	-27938
+TCGA-YL-A8HJ	PRAD	not hispanic or latino	male	white	-21416
+TCGA-YL-A8SB	PRAD	not hispanic or latino	male	white	-22991
+TCGA-YL-A8SL	PRAD	not hispanic or latino	male	white	-27033
+TCGA-YL-A8SP	PRAD	not hispanic or latino	male	white	-21455
+TCGA-YL-A9WK	PRAD	not hispanic or latino	male	black or african american	-23272
+TCGA-ZG-A9L0	PRAD	not hispanic or latino	male	white	-26055
+TCGA-ZG-A9L1	PRAD	not hispanic or latino	male	white	-24214
+TCGA-ZG-A9L2	PRAD	not hispanic or latino	male	white	-25573
+TCGA-ZH-A8Y5	CHOL	not hispanic or latino	male	white	-25268
+TCGA-ZH-A8Y7	CHOL	not reported	male	white	-21880
