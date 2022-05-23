@@ -45,3 +45,9 @@ $ cut -f 1,2 ATACseq_bulk.MGI.catalog.tsv | grep -v ProjectID | sed 's/^TCGA-//'
 
 Case names based on DLBCL1.BamMap.storage1.tsv
 All disease fields are "DLBCL"
+
+
+# BamMap
+
+Get details about files in house (in BamMap)
+fgrep -f <(cut -f 2 DLBCL.BamMap3.tsv ) DLBCL.Catalog3.tsv
