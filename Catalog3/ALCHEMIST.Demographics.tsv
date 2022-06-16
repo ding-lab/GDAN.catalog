@@ -1,0 +1,1299 @@
+case	disease	ethnicity	gender	race	days_to_birth
+ALCH-ABBG	ALCH	not hispanic or latino	male	white	-21767
+ALCH-ABBH	ALCH	not hispanic or latino	female	white	-22389
+ALCH-ABBK	ALCH	not hispanic or latino	female	white	-19041
+ALCH-ABBL	ALCH	not hispanic or latino	female	white	-24311
+ALCH-ABBQ	ALCH	Unknown	female	american indian or alaska native	-25634
+ALCH-ABBS	ALCH	hispanic or latino	female	black or african american	-20905
+ALCH-ABBT	ALCH	not hispanic or latino	male	black or african american	-22046
+ALCH-ABBU	ALCH	not hispanic or latino	female	white	-20155
+ALCH-ABBV	ALCH	not hispanic or latino	female	white	-22311
+ALCH-ABBW	ALCH	not hispanic or latino	female	white	-23303
+ALCH-ABBY	ALCH	not hispanic or latino	female	white	-22850
+ALCH-ABBZ	ALCH	not hispanic or latino	female	white	-22632
+ALCH-ABC1	ALCH	not hispanic or latino	female	white	-31335
+ALCH-ABC4	ALCH	not hispanic or latino	male	black or african american	-22954
+ALCH-ABC6	ALCH	not hispanic or latino	female	white	-22350
+ALCH-ABC7	ALCH	not hispanic or latino	male	black or african american	-22518
+ALCH-ABCT	ALCH	not hispanic or latino	female	white	-25639
+ALCH-ABCY	ALCH	not hispanic or latino	male	black or african american	-22280
+ALCH-ABCZ	ALCH	not hispanic or latino	male	white	-21253
+ALCH-ABD0	ALCH	not hispanic or latino	female	white	-26844
+ALCH-ABD1	ALCH	not hispanic or latino	male	white	-26269
+ALCH-ABD3	ALCH	not hispanic or latino	male	white	-26195
+ALCH-ABD4	ALCH	not hispanic or latino	female	white	-25451
+ALCH-ABDB	ALCH	not hispanic or latino	male	white	-25932
+ALCH-ABDE	ALCH	not hispanic or latino	female	white	-23986
+ALCH-ABDG	ALCH	not hispanic or latino	female	white	-21302
+ALCH-ABDH	ALCH	not hispanic or latino	female	white	-19943
+ALCH-ABDI	ALCH	Unknown	male	white	-30923
+ALCH-ABDJ	ALCH	not hispanic or latino	male	Unknown	-28294
+ALCH-ABDK	ALCH	not hispanic or latino	female	asian	-18073
+ALCH-ABDM	ALCH	not hispanic or latino	female	white	-27690
+ALCH-ABDS	ALCH	not hispanic or latino	male	white	-26878
+ALCH-ABDT	ALCH	not hispanic or latino	female	white	-24901
+ALCH-ABDU	ALCH	not hispanic or latino	male	white	-26172
+ALCH-ABDY	ALCH	not hispanic or latino	male	black or african american	-21144
+ALCH-ABDZ	ALCH	not hispanic or latino	female	white	-23280
+ALCH-ABE3	ALCH	not hispanic or latino	male	white	-26171
+ALCH-ABE6	ALCH	not hispanic or latino	female	black or african american	-21730
+ALCH-ABEE	ALCH	not hispanic or latino	male	white	-28275
+ALCH-ABEG	ALCH	not hispanic or latino	male	white	-29252
+ALCH-ABEJ	ALCH	not hispanic or latino	female	white	-27458
+ALCH-ABEK	ALCH	not hispanic or latino	female	white	-17259
+ALCH-ABEM	ALCH	not hispanic or latino	male	white	-28403
+ALCH-ABEQ	ALCH	not hispanic or latino	male	white	-20163
+ALCH-ABES	ALCH	not hispanic or latino	male	white	-26080
+ALCH-ABEX	ALCH	not hispanic or latino	male	white	-27583
+ALCH-ABEY	ALCH	not hispanic or latino	female	white	-22359
+ALCH-ABEZ	ALCH	not hispanic or latino	female	white	-27493
+ALCH-ABF1	ALCH	not hispanic or latino	female	white	-23261
+ALCH-ABF4	ALCH	not hispanic or latino	male	black or african american	-21611
+ALCH-ABF5	ALCH	not hispanic or latino	male	white	-23440
+ALCH-ABFA	ALCH	not hispanic or latino	female	white	-20401
+ALCH-ABFB	ALCH	not hispanic or latino	female	white	-28134
+ALCH-ABFC	ALCH	hispanic or latino	male	white	-25407
+ALCH-ABFD	ALCH	not hispanic or latino	male	white	-24870
+ALCH-ABFG	ALCH	not reported	female	white	-23784
+ALCH-ABFH	ALCH	not hispanic or latino	male	white	-29205
+ALCH-ABFI	ALCH	not hispanic or latino	male	white	-25355
+ALCH-ABFJ	ALCH	not hispanic or latino	female	white	-22535
+ALCH-ABFN	ALCH	hispanic or latino	male	white	-21722
+ALCH-ABFR	ALCH	not hispanic or latino	female	white	-32004
+ALCH-ABFT	ALCH	not hispanic or latino	male	white	-24704
+ALCH-ABFU	ALCH	hispanic or latino	female	asian	-23766
+ALCH-ABFV	ALCH	not hispanic or latino	female	white	-27970
+ALCH-ABFW	ALCH	not hispanic or latino	female	black or african american	-19691
+ALCH-ABGT	ALCH	not hispanic or latino	female	white	-31489
+ALCH-ABHK	ALCH	not hispanic or latino	male	white	-21679
+ALCH-ABHP	ALCH	not hispanic or latino	male	white	-15935
+ALCH-ABHQ	ALCH	not hispanic or latino	female	black or african american	-27706
+ALCH-ABHR	ALCH	not hispanic or latino	female	white	-26377
+ALCH-ABHS	ALCH	not hispanic or latino	female	white	-26782
+ALCH-ABHX	ALCH	not hispanic or latino	female	white	-23679
+ALCH-ABHZ	ALCH	not hispanic or latino	male	white	-25368
+ALCH-ABI0	ALCH	not hispanic or latino	female	white	-19607
+ALCH-ABI1	ALCH	not hispanic or latino	male	white	-20008
+ALCH-ABI2	ALCH	not hispanic or latino	female	white	-27189
+ALCH-ABI5	ALCH	not hispanic or latino	male	white	-25815
+ALCH-ABI7	ALCH	not hispanic or latino	female	white	-21573
+ALCH-ABI8	ALCH	not hispanic or latino	female	white	-21239
+ALCH-ABI9	ALCH	not hispanic or latino	male	white	-24472
+ALCH-ABID	ALCH	not hispanic or latino	female	white	-27429
+ALCH-ABIE	ALCH	not hispanic or latino	male	white	-31507
+ALCH-ABIF	ALCH	not hispanic or latino	female	white	-22486
+ALCH-ABIH	ALCH	not hispanic or latino	female	white	-15212
+ALCH-ABIK	ALCH	not hispanic or latino	female	white	-19358
+ALCH-ABIL	ALCH	not hispanic or latino	female	white	-24135
+ALCH-ABIN	ALCH	not hispanic or latino	male	white	-27539
+ALCH-ABIS	ALCH	not hispanic or latino	female	white	-24709
+ALCH-ABIT	ALCH	not hispanic or latino	female	white	-17399
+ALCH-ABME	ALCH	not hispanic or latino	female	white	-25114
+ALCH-ABMG	ALCH	not hispanic or latino	female	asian	-27132
+ALCH-ABMH	ALCH	not hispanic or latino	female	white	-24485
+ALCH-ABMJ	ALCH	not hispanic or latino	female	white	-21606
+ALCH-ABMK	ALCH	not hispanic or latino	male	white	-23516
+ALCH-ABML	ALCH	not hispanic or latino	male	white	-19488
+ALCH-ABMM	ALCH	not hispanic or latino	male	white	-24856
+ALCH-ABMO	ALCH	not hispanic or latino	male	white	-25988
+ALCH-ABMX	ALCH	not hispanic or latino	female	white	-22933
+ALCH-ABN5	ALCH	not hispanic or latino	male	white	-28128
+ALCH-ABNA	ALCH	not hispanic or latino	male	white	-24225
+ALCH-ABNC	ALCH	not hispanic or latino	female	white	-26469
+ALCH-ABNF	ALCH	not hispanic or latino	female	white	-26265
+ALCH-ABNT	ALCH	not hispanic or latino	female	white	-30182
+ALCH-ABNU	ALCH	not hispanic or latino	male	white	-19916
+ALCH-ABNW	ALCH	not hispanic or latino	female	white	-27772
+ALCH-ABNY	ALCH	not hispanic or latino	female	white	-18775
+ALCH-ABO2	ALCH	not hispanic or latino	female	black or african american	-23825
+ALCH-ABO3	ALCH	not hispanic or latino	female	Unknown	-20987
+ALCH-ABO8	ALCH	not hispanic or latino	female	asian	-27708
+ALCH-ABOB	ALCH	not hispanic or latino	male	white	-23260
+ALCH-ABOF	ALCH	not reported	female	white	-22757
+ALCH-ABOI	ALCH	not hispanic or latino	male	white	-23302
+ALCH-ABOO	ALCH	not hispanic or latino	female	white	-23710
+ALCH-ABOP	ALCH	not hispanic or latino	male	other	-19158
+ALCH-ABOR	ALCH	not hispanic or latino	female	white	-24600
+ALCH-ABOS	ALCH	not hispanic or latino	female	white	-24537
+ALCH-ABP6	ALCH	not hispanic or latino	female	white	-30120
+ALCH-ABP8	ALCH	not hispanic or latino	female	black or african american	-27866
+ALCH-ABPB	ALCH	not hispanic or latino	male	white	-21912
+ALCH-ABPD	ALCH	not hispanic or latino	male	white	-26199
+ALCH-ABPE	ALCH	not hispanic or latino	female	american indian or alaska native	-20733
+ALCH-ABPI	ALCH	not hispanic or latino	male	white	-19188
+ALCH-ABRS	ALCH	not hispanic or latino	female	white	-26111
+ALCH-ABRY	ALCH	not hispanic or latino	female	white	-16797
+ALCH-ABS1	ALCH	not hispanic or latino	female	not reported	-21411
+ALCH-ABS9	ALCH	not hispanic or latino	female	white	-23802
+ALCH-ABSC	ALCH	not hispanic or latino	male	white	-26561
+ALCH-ABSR	ALCH	not hispanic or latino	female	white	-25818
+ALCH-ABUB	ALCH	not hispanic or latino	female	white	-27056
+ALCH-ABUC	ALCH	not hispanic or latino	male	white	-25014
+ALCH-ABUD	ALCH	not hispanic or latino	female	white	-25816
+ALCH-ABUE	ALCH	not hispanic or latino	female	white	-24844
+ALCH-ABUK	ALCH	not hispanic or latino	male	white	-25200
+ALCH-ABUY	ALCH	not hispanic or latino	male	white	-22529
+ALCH-ABUZ	ALCH	not hispanic or latino	female	white	-20481
+ALCH-ABV3	ALCH	not hispanic or latino	female	white	-16268
+ALCH-ABVG	ALCH	not hispanic or latino	male	white	-29475
+ALCH-ABW5	ALCH	not hispanic or latino	female	white	-21206
+ALCH-ABW9	ALCH	not hispanic or latino	female	white	-27640
+ALCH-ABWD	ALCH	not hispanic or latino	male	white	-24676
+ALCH-ABWG	ALCH	not hispanic or latino	female	white	-13319
+ALCH-ABWH	ALCH	not hispanic or latino	female	white	-19054
+ALCH-ABWI	ALCH	not hispanic or latino	female	white	-21235
+ALCH-ABWL	ALCH	not hispanic or latino	male	white	-24835
+ALCH-ABWM	ALCH	not hispanic or latino	male	white	-23708
+ALCH-ABWN	ALCH	not hispanic or latino	female	black or african american	-23974
+ALCH-ABWO	ALCH	not hispanic or latino	male	white	-23397
+ALCH-ABX1	ALCH	not hispanic or latino	male	white	-25867
+ALCH-ABX3	ALCH	not hispanic or latino	female	white	-28905
+ALCH-ABXA	ALCH	not hispanic or latino	female	white	-22198
+ALCH-ABXE	ALCH	not hispanic or latino	male	white	-25918
+ALCH-ABXF	ALCH	not hispanic or latino	male	white	-23126
+ALCH-ABXG	ALCH	not hispanic or latino	male	asian	-22825
+ALCH-ABXK	ALCH	not hispanic or latino	female	white	-31564
+ALCH-ABXL	ALCH	not hispanic or latino	male	white	-22053
+ALCH-ABXS	ALCH	not hispanic or latino	male	white	-29376
+ALCH-ABXU	ALCH	not hispanic or latino	male	white	-26079
+ALCH-ABXV	ALCH	not hispanic or latino	female	white	-24536
+ALCH-ABXX	ALCH	not hispanic or latino	male	white	-24937
+ALCH-ABY2	ALCH	not hispanic or latino	female	white	-29126
+ALCH-ABYB	ALCH	not hispanic or latino	female	white	-28029
+ALCH-ABYD	ALCH	not hispanic or latino	female	white	-24717
+ALCH-ABYF	ALCH	not hispanic or latino	female	white	-27791
+ALCH-ABYI	ALCH	not hispanic or latino	female	white	-18201
+ALCH-ABYJ	ALCH	not hispanic or latino	female	white	-20397
+ALCH-ABYK	ALCH	not hispanic or latino	male	white	-27931
+ALCH-ABYM	ALCH	not hispanic or latino	male	white	-27786
+ALCH-ABYN	ALCH	not hispanic or latino	female	white	-28661
+ALCH-ABYP	ALCH	not hispanic or latino	male	white	-22697
+ALCH-ABYR	ALCH	hispanic or latino	male	white	-29027
+ALCH-ABYT	ALCH	Unknown	female	black or african american	-18709
+ALCH-ABYW	ALCH	not hispanic or latino	male	white	-31044
+ALCH-ABYX	ALCH	not hispanic or latino	male	white	-22802
+ALCH-ABYY	ALCH	not hispanic or latino	female	white	-29214
+ALCH-ABYZ	ALCH	not hispanic or latino	male	white	-26571
+ALCH-ABZ0	ALCH	not hispanic or latino	female	white	-27510
+ALCH-ABZ2	ALCH	Unknown	female	white	-29271
+ALCH-ABZD	ALCH	not hispanic or latino	male	white	-25459
+ALCH-ABZF	ALCH	not hispanic or latino	male	white	-24152
+ALCH-ABZG	ALCH	not hispanic or latino	male	white	-16599
+ALCH-ABZX	ALCH	not hispanic or latino	male	white	-26457
+ALCH-ABZZ	ALCH	not hispanic or latino	male	white	-21573
+ALCH-AC02	ALCH	not hispanic or latino	male	white	-23981
+ALCH-AC09	ALCH	not hispanic or latino	female	white	-15080
+ALCH-AC0A	ALCH	not hispanic or latino	male	white	-19112
+ALCH-AC0E	ALCH	not hispanic or latino	male	white	-13535
+ALCH-AC0H	ALCH	not hispanic or latino	male	white	-26700
+ALCH-AC0K	ALCH	not hispanic or latino	male	white	-31089
+ALCH-AC0L	ALCH	not hispanic or latino	female	white	-24931
+ALCH-AC0N	ALCH	not hispanic or latino	female	white	-21442
+ALCH-AC0R	ALCH	not hispanic or latino	female	white	-27220
+ALCH-AC0T	ALCH	not hispanic or latino	female	white	-25958
+ALCH-AC0U	ALCH	not hispanic or latino	male	white	-19060
+ALCH-AC0W	ALCH	not hispanic or latino	female	white	-20458
+ALCH-AC0Z	ALCH	not hispanic or latino	male	white	-23210
+ALCH-AC11	ALCH	not hispanic or latino	male	asian	-22293
+ALCH-AC13	ALCH	not hispanic or latino	male	white	-30501
+ALCH-AC14	ALCH	not hispanic or latino	female	white	-24934
+ALCH-AC17	ALCH	not hispanic or latino	male	black or african american	-22055
+ALCH-AC18	ALCH	not hispanic or latino	female	black or african american	-26618
+ALCH-AC1A	ALCH	not hispanic or latino	male	black or african american	-20572
+ALCH-AC3L	ALCH	not hispanic or latino	female	black or african american	-17489
+ALCH-AC3N	ALCH	not hispanic or latino	female	american indian or alaska native	-30948
+ALCH-AC3O	ALCH	not hispanic or latino	male	asian	-25249
+ALCH-AC3Q	ALCH	hispanic or latino	male	Unknown	-25897
+ALCH-AC3R	ALCH	not hispanic or latino	female	white	-22900
+ALCH-AC5F	ALCH	not hispanic or latino	female	white	-28294
+ALCH-AC5M	ALCH	not hispanic or latino	female	white	-24105
+ALCH-AC5O	ALCH	not hispanic or latino	male	white	-22961
+ALCH-AC5P	ALCH	not hispanic or latino	male	white	-26075
+ALCH-AC5V	ALCH	not hispanic or latino	male	white	-24792
+ALCH-AC5Z	ALCH	not hispanic or latino	male	white	-26250
+ALCH-AC61	ALCH	not hispanic or latino	female	white	-27266
+ALCH-AC62	ALCH	not hispanic or latino	male	white	-25389
+ALCH-AC65	ALCH	not hispanic or latino	female	white	-27951
+ALCH-AC67	ALCH	not hispanic or latino	female	white	-18346
+ALCH-AC69	ALCH	not hispanic or latino	female	white	-23310
+ALCH-AC6B	ALCH	not hispanic or latino	male	white	-29090
+ALCH-AC6D	ALCH	not hispanic or latino	male	white	-25272
+ALCH-AC6F	ALCH	not hispanic or latino	female	white	-26281
+ALCH-AC6K	ALCH	not hispanic or latino	female	white	-21125
+ALCH-AC6M	ALCH	not hispanic or latino	female	asian	-20439
+ALCH-AC6O	ALCH	not hispanic or latino	female	black or african american	-23417
+ALCH-AC6P	ALCH	not hispanic or latino	male	white	-28644
+ALCH-AC6R	ALCH	hispanic or latino	female	white	-17162
+ALCH-AC6S	ALCH	not hispanic or latino	male	white	-25436
+ALCH-AC6U	ALCH	not hispanic or latino	male	white	-26125
+ALCH-AC6V	ALCH	not hispanic or latino	female	asian	-28736
+ALCH-AC6X	ALCH	not hispanic or latino	male	black or african american	-26147
+ALCH-AC6Z	ALCH	not hispanic or latino	female	black or african american	-22152
+ALCH-AC70	ALCH	not hispanic or latino	female	white	-23633
+ALCH-AC71	ALCH	not hispanic or latino	female	asian	-20153
+ALCH-AC72	ALCH	not hispanic or latino	female	white	-17964
+ALCH-AC73	ALCH	not hispanic or latino	male	white	-26290
+ALCH-AC7E	ALCH	not hispanic or latino	male	white	-25082
+ALCH-AC7J	ALCH	not hispanic or latino	female	white	-18020
+ALCH-AC7L	ALCH	not hispanic or latino	female	black or african american	-21969
+ALCH-AC7P	ALCH	not hispanic or latino	male	white	-32872
+ALCH-AC7S	ALCH	hispanic or latino	male	white	-28662
+ALCH-AC7W	ALCH	not hispanic or latino	female	white	-24206
+ALCH-AC7Z	ALCH	not hispanic or latino	female	white	-26688
+ALCH-AC82	ALCH	hispanic or latino	female	Unknown	-25774
+ALCH-AC83	ALCH	not hispanic or latino	female	white	-24222
+ALCH-AC85	ALCH	not hispanic or latino	male	white	-26693
+ALCH-AC86	ALCH	not hispanic or latino	female	white	-25232
+ALCH-AC88	ALCH	not hispanic or latino	female	white	-24888
+ALCH-AC89	ALCH	not hispanic or latino	male	white	-27114
+ALCH-AC8C	ALCH	not hispanic or latino	female	black or african american	-18516
+ALCH-AC8E	ALCH	not hispanic or latino	female	asian	-21564
+ALCH-AC8I	ALCH	not hispanic or latino	female	black or african american	-15034
+ALCH-AC8K	ALCH	not hispanic or latino	female	white	-25269
+ALCH-ACFO	ALCH	not hispanic or latino	female	white	-25849
+ALCH-ACFP	ALCH	not hispanic or latino	female	white	-25549
+ALCH-ACFT	ALCH	not hispanic or latino	female	black or african american	-24467
+ALCH-ACFU	ALCH	not hispanic or latino	female	white	-25914
+ALCH-ACFZ	ALCH	not hispanic or latino	female	white	-26520
+ALCH-ACG1	ALCH	not hispanic or latino	female	white	-24405
+ALCH-ACG2	ALCH	not hispanic or latino	male	white	-24346
+ALCH-ACG4	ALCH	not hispanic or latino	female	asian	-10710
+ALCH-ACG5	ALCH	not hispanic or latino	female	white	-19463
+ALCH-ACG7	ALCH	not hispanic or latino	male	white	-20158
+ALCH-ACG9	ALCH	hispanic or latino	male	white	-26463
+ALCH-ACGA	ALCH	not hispanic or latino	female	black or african american	-22599
+ALCH-ACGB	ALCH	not hispanic or latino	female	white	-29918
+ALCH-ACGD	ALCH	not hispanic or latino	female	white	-25089
+ALCH-ACGE	ALCH	not hispanic or latino	male	white	-25909
+ALCH-ACGF	ALCH	not hispanic or latino	female	white	-27756
+ALCH-ACGG	ALCH	not hispanic or latino	male	white	-22923
+ALCH-ACGH	ALCH	not hispanic or latino	male	white	-26714
+ALCH-ACGI	ALCH	not hispanic or latino	male	white	-21358
+ALCH-ACGJ	ALCH	not hispanic or latino	male	white	-27681
+ALCH-ACGN	ALCH	not hispanic or latino	female	black or african american	-23932
+ALCH-ACGO	ALCH	not hispanic or latino	male	white	-29607
+ALCH-ACGV	ALCH	not reported	male	not reported	-21570
+ALCH-ACH2	ALCH	not hispanic or latino	female	white	-25238
+ALCH-ACH9	ALCH	Unknown	male	Unknown	-26533
+ALCH-ACHA	ALCH	not hispanic or latino	female	white	-26741
+ALCH-ACHC	ALCH	not hispanic or latino	female	black or african american	-22100
+ALCH-ACHE	ALCH	not hispanic or latino	male	white	-23760
+ALCH-ACHJ	ALCH	not hispanic or latino	female	black or african american	-15745
+ALCH-ACI6	ALCH	not hispanic or latino	male	white	-21335
+ALCH-ACI8	ALCH	not hispanic or latino	male	white	-23745
+ALCH-ACI9	ALCH	not hispanic or latino	female	american indian or alaska native	-19138
+ALCH-ACIF	ALCH	not hispanic or latino	female	white	-26142
+ALCH-ACWA	ALCH	not hispanic or latino	female	white	-28203
+ALCH-ACWD	ALCH	not hispanic or latino	male	white	-28469
+ALCH-ACWE	ALCH	not hispanic or latino	female	white	-19144
+ALCH-ACWF	ALCH	not hispanic or latino	female	white	-21184
+ALCH-ACWI	ALCH	not hispanic or latino	female	white	-27590
+ALCH-ACWM	ALCH	not hispanic or latino	female	white	-21468
+ALCH-ACWN	ALCH	not hispanic or latino	female	black or african american	-25128
+ALCH-ACX5	ALCH	not hispanic or latino	male	white	-23761
+ALCH-ACX8	ALCH	not hispanic or latino	female	white	-27086
+ALCH-ACXA	ALCH	not hispanic or latino	female	white	-22734
+ALCH-ACXB	ALCH	not hispanic or latino	female	white	-32244
+ALCH-ACXE	ALCH	not hispanic or latino	male	black or african american	-28759
+ALCH-ACXH	ALCH	not hispanic or latino	female	white	-19795
+ALCH-ACXJ	ALCH	not hispanic or latino	male	white	-26619
+ALCH-ACXO	ALCH	hispanic or latino	male	white	-20258
+ALCH-ACXP	ALCH	not hispanic or latino	male	white	-25151
+ALCH-ACXQ	ALCH	not hispanic or latino	male	white	-26960
+ALCH-ACXT	ALCH	hispanic or latino	female	white	-25944
+ALCH-ACXU	ALCH	not hispanic or latino	female	white	-19840
+ALCH-AD0I	ALCH	not hispanic or latino	male	white	-22207
+ALCH-AD0L	ALCH	not hispanic or latino	female	white	-22505
+ALCH-AD0M	ALCH	not hispanic or latino	female	white	-30387
+ALCH-AD0N	ALCH	not hispanic or latino	female	white	-23485
+ALCH-AD0P	ALCH	not hispanic or latino	female	white	-27250
+ALCH-AD0R	ALCH	not hispanic or latino	male	white	-24028
+ALCH-AD0U	ALCH	not hispanic or latino	female	white	-21562
+ALCH-AD0V	ALCH	not hispanic or latino	female	white	-27792
+ALCH-AD2Z	ALCH	not hispanic or latino	female	white	-29530
+ALCH-AD30	ALCH	not hispanic or latino	female	white	-25357
+ALCH-AD31	ALCH	not hispanic or latino	female	white	-17554
+ALCH-AD37	ALCH	not hispanic or latino	male	white	-24810
+ALCH-AD38	ALCH	not hispanic or latino	female	white	-22754
+ALCH-AD39	ALCH	not hispanic or latino	male	white	-21699
+ALCH-AD3K	ALCH	not hispanic or latino	female	white	-25157
+ALCH-AD3P	ALCH	not hispanic or latino	male	white	-27586
+ALCH-AD3T	ALCH	not hispanic or latino	female	white	-26334
+ALCH-AD6S	ALCH	not hispanic or latino	male	white	-26357
+ALCH-AD6W	ALCH	not hispanic or latino	male	white	-24242
+ALCH-AD6X	ALCH	not hispanic or latino	female	black or african american	-24141
+ALCH-AD6Y	ALCH	not hispanic or latino	female	other	-23325
+ALCH-AD71	ALCH	not hispanic or latino	female	black or african american	-22016
+ALCH-AD77	ALCH	not hispanic or latino	male	white	-27105
+ALCH-AD78	ALCH	hispanic or latino	female	white	-22395
+ALCH-AD7A	ALCH	not hispanic or latino	female	black or african american	-28802
+ALCH-AD7C	ALCH	not hispanic or latino	male	white	-23012
+ALCH-AD7F	ALCH	not hispanic or latino	male	white	-30598
+ALCH-AD7Y	ALCH	not hispanic or latino	female	white	-18939
+ALCH-AD7Z	ALCH	not hispanic or latino	male	white	-23451
+ALCH-AD84	ALCH	not hispanic or latino	male	white	-22321
+ALCH-AD88	ALCH	not hispanic or latino	female	white	-22538
+ALCH-AD8A	ALCH	not hispanic or latino	female	white	-21272
+ALCH-AD8B	ALCH	not hispanic or latino	male	asian	-29380
+ALCH-AD8J	ALCH	not hispanic or latino	female	white	-19178
+ALCH-AD8L	ALCH	not hispanic or latino	female	white	-26207
+ALCH-AD8O	ALCH	not hispanic or latino	male	white	-19405
+ALCH-AD8P	ALCH	not hispanic or latino	male	white	-30672
+ALCH-AD8T	ALCH	not hispanic or latino	male	white	-19866
+ALCH-AD8U	ALCH	Unknown	male	white	-21151
+ALCH-AD8V	ALCH	not hispanic or latino	female	asian	-26320
+ALCH-AD8W	ALCH	not hispanic or latino	male	white	-24904
+ALCH-AD8Y	ALCH	not hispanic or latino	male	white	-25911
+ALCH-AD90	ALCH	not hispanic or latino	female	asian	-24750
+ALCH-AD91	ALCH	not hispanic or latino	male	white	-22239
+ALCH-AD92	ALCH	not hispanic or latino	male	asian	-28201
+ALCH-AD93	ALCH	not hispanic or latino	female	asian	-23444
+ALCH-AD95	ALCH	not hispanic or latino	male	white	-24176
+ALCH-AD96	ALCH	not hispanic or latino	female	white	-19142
+ALCH-AD97	ALCH	not hispanic or latino	female	white	-24323
+ALCH-AD98	ALCH	not hispanic or latino	female	black or african american	-26410
+ALCH-AD99	ALCH	not hispanic or latino	male	white	-21881
+ALCH-AD9B	ALCH	not hispanic or latino	female	asian	-21404
+ALCH-AD9D	ALCH	not hispanic or latino	female	white	-21046
+ALCH-AD9K	ALCH	hispanic or latino	male	Unknown	-21626
+ALCH-AD9L	ALCH	not hispanic or latino	female	white	-25262
+ALCH-AD9M	ALCH	not hispanic or latino	male	white	-21804
+ALCH-AD9N	ALCH	not hispanic or latino	female	white	-26084
+ALCH-AD9O	ALCH	not hispanic or latino	female	white	-29281
+ALCH-AD9P	ALCH	not hispanic or latino	male	white	-22337
+ALCH-AD9Q	ALCH	not hispanic or latino	male	white	-24613
+ALCH-AD9R	ALCH	not hispanic or latino	male	white	-22944
+ALCH-AD9S	ALCH	not hispanic or latino	female	white	-18095
+ALCH-AD9T	ALCH	not hispanic or latino	male	white	-23759
+ALCH-AD9U	ALCH	not hispanic or latino	female	white	-20757
+ALCH-ADA2	ALCH	not hispanic or latino	female	white	-29308
+ALCH-ADA5	ALCH	not hispanic or latino	female	white	-26162
+ALCH-ADA6	ALCH	not hispanic or latino	female	white	-23795
+ALCH-ADA7	ALCH	not hispanic or latino	male	white	-26515
+ALCH-ADA8	ALCH	not hispanic or latino	female	black or african american	-21571
+ALCH-ADAA	ALCH	not hispanic or latino	male	asian	-21043
+ALCH-ADBH	ALCH	not hispanic or latino	female	white	-18649
+ALCH-ADBJ	ALCH	not hispanic or latino	male	white	-24138
+ALCH-ADBM	ALCH	not hispanic or latino	male	white	-27809
+ALCH-ADBO	ALCH	not hispanic or latino	male	white	-24107
+ALCH-ADBQ	ALCH	not hispanic or latino	female	white	-26739
+ALCH-ADBR	ALCH	not hispanic or latino	female	white	-18615
+ALCH-ADBT	ALCH	not hispanic or latino	male	white	-22687
+ALCH-ADBX	ALCH	not hispanic or latino	male	white	-20819
+ALCH-ADC0	ALCH	not hispanic or latino	female	white	-20215
+ALCH-ADC8	ALCH	not hispanic or latino	female	white	-22536
+ALCH-ADF0	ALCH	not hispanic or latino	female	black or african american	-20626
+ALCH-ADF8	ALCH	not hispanic or latino	female	white	-17546
+ALCH-ADFJ	ALCH	not hispanic or latino	male	black or african american	-21391
+ALCH-ADFX	ALCH	not hispanic or latino	female	white	-23853
+ALCH-ADFY	ALCH	not hispanic or latino	female	white	-25702
+ALCH-ADG5	ALCH	not hispanic or latino	male	white	-26806
+ALCH-ADG6	ALCH	not hispanic or latino	male	white	-25459
+ALCH-ADG7	ALCH	not hispanic or latino	female	black or african american	-25172
+ALCH-ADG8	ALCH	not hispanic or latino	male	white	-27668
+ALCH-ADGA	ALCH	not hispanic or latino	male	white	-21655
+ALCH-ADGE	ALCH	not hispanic or latino	female	white	-21273
+ALCH-ADHK	ALCH	not hispanic or latino	male	asian	-26428
+ALCH-ADHL	ALCH	not hispanic or latino	female	white	-23442
+ALCH-ADHN	ALCH	not hispanic or latino	male	white	-25278
+ALCH-ADHT	ALCH	not hispanic or latino	female	white	-23326
+ALCH-ADHW	ALCH	not hispanic or latino	female	white	-22319
+ALCH-ADHZ	ALCH	not hispanic or latino	female	asian	-19302
+ALCH-ADI2	ALCH	not hispanic or latino	female	black or african american	-28386
+ALCH-ADI4	ALCH	not hispanic or latino	female	white	-27363
+ALCH-ADI5	ALCH	not hispanic or latino	female	white	-29129
+ALCH-ADI8	ALCH	not hispanic or latino	male	white	-25166
+ALCH-ADIA	ALCH	not hispanic or latino	female	white	-23341
+ALCH-ADIB	ALCH	not hispanic or latino	male	white	-19840
+ALCH-ADIC	ALCH	not hispanic or latino	female	black or african american	-19473
+ALCH-ADIQ	ALCH	not hispanic or latino	female	white	-28024
+ALCH-ADMK	ALCH	not hispanic or latino	male	white	-21172
+ALCH-ADMO	ALCH	not hispanic or latino	male	white	-25073
+ALCH-ADMT	ALCH	not hispanic or latino	male	white	-24141
+ALCH-ADMU	ALCH	not reported	male	not reported	-28637
+ALCH-ADMV	ALCH	not hispanic or latino	male	asian	-17444
+ALCH-ADMY	ALCH	not hispanic or latino	male	white	-27191
+ALCH-ADMZ	ALCH	not hispanic or latino	male	white	-26959
+ALCH-ADN3	ALCH	not hispanic or latino	female	white	-22086
+ALCH-ADN6	ALCH	hispanic or latino	female	white	-24807
+ALCH-ADNC	ALCH	not hispanic or latino	female	white	-22444
+ALCH-ADND	ALCH	not reported	male	white	-27386
+ALCH-ADNE	ALCH	not hispanic or latino	male	white	-22286
+ALCH-ADNG	ALCH	not hispanic or latino	female	white	-18079
+ALCH-ADNH	ALCH	not hispanic or latino	female	black or african american	-21238
+ALCH-ADNK	ALCH	not hispanic or latino	female	white	-20445
+ALCH-ADNM	ALCH	not hispanic or latino	male	white	-23967
+ALCH-ADNN	ALCH	not hispanic or latino	female	white	-22033
+ALCH-ADNQ	ALCH	not hispanic or latino	male	white	-22463
+ALCH-ADNR	ALCH	not hispanic or latino	female	white	-27640
+ALCH-ADNU	ALCH	not hispanic or latino	female	white	-17514
+ALCH-ADNY	ALCH	not hispanic or latino	female	white	-28912
+ALCH-ADNZ	ALCH	not hispanic or latino	male	white	-26520
+ALCH-ADO2	ALCH	not hispanic or latino	female	white	-22064
+ALCH-ADO5	ALCH	not hispanic or latino	female	white	-23494
+ALCH-ADOQ	ALCH	not hispanic or latino	male	white	-19775
+ALCH-ADOS	ALCH	not hispanic or latino	female	white	-18929
+ALCH-ADOU	ALCH	not hispanic or latino	female	white	-25096
+ALCH-ADOX	ALCH	not hispanic or latino	male	white	-24130
+ALCH-ADOY	ALCH	not hispanic or latino	female	white	-25450
+ALCH-ADOZ	ALCH	not hispanic or latino	male	white	-25268
+ALCH-ADP0	ALCH	not hispanic or latino	male	white	-24176
+ALCH-ADPO	ALCH	not hispanic or latino	female	other	-26549
+ALCH-ADPT	ALCH	not hispanic or latino	female	asian	-24873
+ALCH-ADPV	ALCH	not hispanic or latino	male	white	-26392
+ALCH-ADPW	ALCH	not hispanic or latino	male	white	-28193
+ALCH-ADR5	ALCH	not hispanic or latino	female	black or african american	-23563
+ALCH-ADRF	ALCH	not hispanic or latino	female	black or african american	-30317
+ALCH-ADRG	ALCH	not hispanic or latino	male	white	-21346
+ALCH-ADRH	ALCH	not hispanic or latino	male	white	-27301
+ALCH-ADRM	ALCH	not hispanic or latino	male	white	-23692
+ALCH-ADRP	ALCH	not hispanic or latino	female	white	-27320
+ALCH-ADS1	ALCH	not hispanic or latino	female	white	-25402
+ALCH-ADT9	ALCH	not hispanic or latino	female	white	-24987
+ALCH-ADTA	ALCH	not hispanic or latino	female	white	-23582
+ALCH-ADTD	ALCH	not hispanic or latino	male	black or african american	-30803
+ALCH-ADTN	ALCH	not hispanic or latino	female	asian	-15140
+ALCH-ADTP	ALCH	not hispanic or latino	male	asian	-24619
+ALCH-ADTQ	ALCH	not hispanic or latino	female	white	-25116
+ALCH-ADTT	ALCH	not hispanic or latino	male	white	-20372
+ALCH-ADTV	ALCH	not hispanic or latino	female	white	-22451
+ALCH-ADTY	ALCH	not hispanic or latino	male	white	-28957
+ALCH-ADTZ	ALCH	not hispanic or latino	male	white	-25470
+ALCH-ADU0	ALCH	not hispanic or latino	male	white	-26755
+ALCH-ADU1	ALCH	not hispanic or latino	female	asian	-28952
+ALCH-ADU4	ALCH	not hispanic or latino	female	white	-20914
+ALCH-ADUE	ALCH	not hispanic or latino	male	white	-23870
+ALCH-ADUF	ALCH	not hispanic or latino	female	white	-23261
+ALCH-ADUJ	ALCH	not hispanic or latino	female	white	-26065
+ALCH-ADUK	ALCH	not hispanic or latino	female	white	-24363
+ALCH-ADUN	ALCH	not hispanic or latino	female	white	-26243
+ALCH-ADUS	ALCH	not hispanic or latino	male	black or african american	-26571
+ALCH-ADV0	ALCH	not hispanic or latino	female	white	-22089
+ALCH-ADV1	ALCH	not hispanic or latino	female	white	-19953
+ALCH-ADV4	ALCH	not hispanic or latino	female	white	-21057
+ALCH-ADV7	ALCH	not hispanic or latino	male	white	-23060
+ALCH-ADV8	ALCH	not hispanic or latino	female	white	-26855
+ALCH-ADW7	ALCH	not hispanic or latino	male	white	-25903
+ALCH-ADWA	ALCH	not hispanic or latino	male	white	-24950
+ALCH-ADWC	ALCH	not hispanic or latino	male	white	-27519
+ALCH-ADWI	ALCH	not hispanic or latino	female	white	-13262
+ALCH-ADWK	ALCH	not hispanic or latino	male	white	-22906
+ALCH-ADWM	ALCH	not hispanic or latino	female	white	-25581
+ALCH-ADWP	ALCH	not hispanic or latino	female	black or african american	-20793
+ALCH-ADWR	ALCH	not hispanic or latino	male	white	-25847
+ALCH-ADWW	ALCH	not hispanic or latino	female	white	-18844
+ALCH-ADWX	ALCH	not hispanic or latino	male	white	-21124
+ALCH-ADWY	ALCH	not hispanic or latino	male	white	-20937
+ALCH-ADX0	ALCH	not hispanic or latino	male	white	-21882
+ALCH-ADX1	ALCH	not hispanic or latino	male	white	-24466
+ALCH-ADX2	ALCH	not hispanic or latino	female	white	-29754
+ALCH-ADX4	ALCH	not hispanic or latino	female	white	-27071
+ALCH-ADX5	ALCH	not hispanic or latino	male	white	-22115
+ALCH-ADX6	ALCH	not reported	female	not reported	-19291
+ALCH-ADX9	ALCH	not hispanic or latino	male	white	-24099
+ALCH-ADXA	ALCH	not hispanic or latino	female	white	-24666
+ALCH-ADXB	ALCH	hispanic or latino	male	Unknown	-23898
+ALCH-ADXF	ALCH	not hispanic or latino	female	white	-26858
+ALCH-ADXG	ALCH	not hispanic or latino	male	black or african american	-23981
+ALCH-ADXJ	ALCH	not hispanic or latino	male	white	-31732
+ALCH-ADXL	ALCH	not hispanic or latino	female	white	-19655
+ALCH-ADXQ	ALCH	hispanic or latino	female	white	-21222
+ALCH-ADXZ	ALCH	not hispanic or latino	male	black or african american	-23566
+ALCH-ADYE	ALCH	not hispanic or latino	female	white	-22056
+ALCH-ADYH	ALCH	not hispanic or latino	male	white	-23543
+ALCH-ADYM	ALCH	not hispanic or latino	male	white	-28045
+ALCH-ADYN	ALCH	not hispanic or latino	female	white	-27283
+ALCH-ADYO	ALCH	not hispanic or latino	female	white	-25641
+ALCH-ADYP	ALCH	not hispanic or latino	female	white	-25992
+ALCH-ADYQ	ALCH	not hispanic or latino	female	asian	-26736
+ALCH-ADYS	ALCH	not hispanic or latino	male	white	-25757
+ALCH-ADYV	ALCH	not hispanic or latino	female	black or african american	-18621
+ALCH-ADYX	ALCH	not hispanic or latino	male	white	-24547
+ALCH-ADZH	ALCH	not hispanic or latino	male	white	-28297
+ALCH-ADZJ	ALCH	not hispanic or latino	female	white	-28372
+ALCH-ADZK	ALCH	not hispanic or latino	female	white	-29009
+ALCH-ADZL	ALCH	not hispanic or latino	male	white	-25774
+ALCH-ADZO	ALCH	not hispanic or latino	female	white	-23014
+ALCH-ADZR	ALCH	not hispanic or latino	male	white	-25346
+ALCH-ADZV	ALCH	not hispanic or latino	male	white	-20444
+ALCH-ADZX	ALCH	not hispanic or latino	male	white	-25053
+ALCH-ADZY	ALCH	not hispanic or latino	female	white	-19648
+ALCH-AE01	ALCH	not hispanic or latino	female	white	-20018
+ALCH-AE04	ALCH	not hispanic or latino	male	white	-29057
+ALCH-AE05	ALCH	not hispanic or latino	male	white	-18182
+ALCH-AE08	ALCH	not hispanic or latino	female	white	-21948
+ALCH-AE0F	ALCH	hispanic or latino	male	white	-25494
+ALCH-AE0I	ALCH	not hispanic or latino	male	white	-19833
+ALCH-AE0M	ALCH	not hispanic or latino	female	white	-28429
+ALCH-AE0O	ALCH	not reported	male	not reported	-21819
+ALCH-AE0P	ALCH	not hispanic or latino	female	white	-27429
+ALCH-AE0Q	ALCH	not hispanic or latino	male	white	-22759
+ALCH-AE0T	ALCH	not hispanic or latino	female	white	-25357
+ALCH-AE0Z	ALCH	not hispanic or latino	female	white	-22813
+ALCH-AE10	ALCH	not hispanic or latino	male	white	-28756
+ALCH-AE11	ALCH	not hispanic or latino	male	white	-27332
+ALCH-AE15	ALCH	not hispanic or latino	female	white	-26451
+ALCH-AE19	ALCH	not hispanic or latino	female	white	-26618
+ALCH-AE1C	ALCH	not hispanic or latino	male	white	-21666
+ALCH-AE1D	ALCH	not hispanic or latino	female	white	-24260
+ALCH-AE1E	ALCH	not hispanic or latino	male	white	-24438
+ALCH-AE1J	ALCH	not hispanic or latino	female	white	-25054
+ALCH-AE20	ALCH	not hispanic or latino	female	white	-20278
+ALCH-AE21	ALCH	not hispanic or latino	male	black or african american	-20404
+ALCH-AE22	ALCH	not hispanic or latino	female	black or african american	-21547
+ALCH-AE23	ALCH	not hispanic or latino	female	white	-18999
+ALCH-AE24	ALCH	not hispanic or latino	male	white	-24051
+ALCH-AE25	ALCH	not hispanic or latino	female	white	-25534
+ALCH-AE27	ALCH	not hispanic or latino	male	not reported	-24818
+ALCH-AE2B	ALCH	hispanic or latino	female	white	-25714
+ALCH-AE2F	ALCH	not hispanic or latino	male	white	-23066
+ALCH-AE2H	ALCH	not hispanic or latino	female	black or african american	-22233
+ALCH-AE2K	ALCH	not hispanic or latino	male	white	-23578
+ALCH-AE4V	ALCH	not hispanic or latino	female	black or african american	-26934
+ALCH-AE4X	ALCH	not hispanic or latino	female	white	-24364
+ALCH-AE4Z	ALCH	not hispanic or latino	male	white	-20063
+ALCH-AE51	ALCH	not hispanic or latino	female	not reported	-24349
+ALCH-AE53	ALCH	not hispanic or latino	female	white	-23313
+ALCH-AE57	ALCH	Unknown	female	white	-25189
+ALCH-AE5B	ALCH	not hispanic or latino	male	not reported	-23185
+ALCH-AE5C	ALCH	not hispanic or latino	male	white	-21652
+ALCH-AE5E	ALCH	not hispanic or latino	female	white	-29105
+ALCH-AE5F	ALCH	not hispanic or latino	female	black or african american	-18458
+ALCH-AE5L	ALCH	not hispanic or latino	female	white	-22799
+ALCH-AE5O	ALCH	not hispanic or latino	female	white	-26359
+ALCH-AE64	ALCH	not hispanic or latino	female	white	-19620
+ALCH-AE66	ALCH	not hispanic or latino	female	white	-25246
+ALCH-AE6A	ALCH	not hispanic or latino	female	white	-21666
+ALCH-AE6E	ALCH	not hispanic or latino	female	white	-24072
+ALCH-AE6G	ALCH	not hispanic or latino	female	white	-24400
+ALCH-AE6I	ALCH	not hispanic or latino	female	white	-25372
+ALCH-AE77	ALCH	not hispanic or latino	male	white	-23087
+ALCH-AE7C	ALCH	not hispanic or latino	male	white	-21927
+ALCH-AE7N	ALCH	not hispanic or latino	male	black or african american	-23119
+ALCH-AE7P	ALCH	not hispanic or latino	male	white	-29445
+ALCH-AE7T	ALCH	not hispanic or latino	female	white	-16295
+ALCH-AE7X	ALCH	not hispanic or latino	male	white	-26647
+ALCH-AE7Y	ALCH	not hispanic or latino	female	white	-21881
+ALCH-AE80	ALCH	not hispanic or latino	female	white	-26777
+ALCH-AE83	ALCH	not hispanic or latino	female	white	-22473
+ALCH-AE85	ALCH	not hispanic or latino	female	white	-23307
+ALCH-AE87	ALCH	not hispanic or latino	female	white	-24475
+ALCH-AE89	ALCH	not hispanic or latino	male	white	-21838
+ALCH-AE8G	ALCH	not hispanic or latino	female	black or african american	-27353
+ALCH-AE8I	ALCH	not hispanic or latino	male	white	-21917
+ALCH-AE8K	ALCH	not reported	female	white	-26359
+ALCH-AE8N	ALCH	not hispanic or latino	male	white	-27961
+ALCH-AE8Y	ALCH	not hispanic or latino	female	white	-25090
+ALCH-AE95	ALCH	not hispanic or latino	female	white	-25702
+ALCH-AE96	ALCH	not hispanic or latino	female	white	-27534
+ALCH-AE99	ALCH	not hispanic or latino	female	white	-27923
+ALCH-AEBJ	ALCH	not hispanic or latino	male	white	-25873
+ALCH-AEBK	ALCH	not hispanic or latino	male	not reported	-26812
+ALCH-AEBM	ALCH	not hispanic or latino	female	black or african american	-18443
+ALCH-AEBN	ALCH	not hispanic or latino	male	white	-22224
+ALCH-AEBU	ALCH	not hispanic or latino	male	black or african american	-21583
+ALCH-AEBW	ALCH	not hispanic or latino	female	white	-30260
+ALCH-AEBX	ALCH	not hispanic or latino	male	white	-19837
+ALCH-AEDR	ALCH	not hispanic or latino	female	white	-24371
+ALCH-AEDX	ALCH	not hispanic or latino	male	white	-21534
+ALCH-AEE2	ALCH	not hispanic or latino	female	black or african american	-25491
+ALCH-AEEM	ALCH	not hispanic or latino	male	not reported	-25179
+ALCH-AEEO	ALCH	not hispanic or latino	female	white	-24895
+ALCH-AEEV	ALCH	not hispanic or latino	female	white	-23468
+ALCH-AEEZ	ALCH	not hispanic or latino	male	white	-26170
+ALCH-AEF1	ALCH	not reported	male	white	-24098
+ALCH-AEF3	ALCH	not hispanic or latino	female	white	-25268
+ALCH-AEF9	ALCH	not hispanic or latino	female	white	-23992
+ALCH-AEFB	ALCH	not hispanic or latino	male	white	-28942
+ALCH-AEFE	ALCH	hispanic or latino	female	white	-26633
+ALCH-AEFH	ALCH	not hispanic or latino	female	white	-27934
+ALCH-AEFI	ALCH	not hispanic or latino	female	white	-27076
+ALCH-AEFN	ALCH	not hispanic or latino	male	white	-24595
+ALCH-AEG2	ALCH	not hispanic or latino	female	asian	-22361
+ALCH-AEG4	ALCH	not hispanic or latino	female	asian	-19544
+ALCH-AEG6	ALCH	not hispanic or latino	female	white	-27621
+ALCH-AEG8	ALCH	not hispanic or latino	female	white	-21956
+ALCH-AEGD	ALCH	not hispanic or latino	male	white	-19687
+ALCH-AEJ5	ALCH	not hispanic or latino	female	white	-24768
+ALCH-AEJ7	ALCH	not hispanic or latino	female	white	-26273
+ALCH-AEJA	ALCH	not hispanic or latino	male	white	-26110
+ALCH-AEJC	ALCH	not hispanic or latino	female	white	-23147
+ALCH-AEJE	ALCH	not hispanic or latino	female	black or african american	-28187
+ALCH-AEJG	ALCH	not hispanic or latino	female	white	-22418
+ALCH-AEJJ	ALCH	not hispanic or latino	female	white	-24903
+ALCH-AEJL	ALCH	not hispanic or latino	female	white	-20180
+ALCH-AEJM	ALCH	not hispanic or latino	female	white	-23213
+ALCH-AEJO	ALCH	not hispanic or latino	male	white	-25205
+ALCH-AEJV	ALCH	not hispanic or latino	female	white	-25727
+ALCH-AEJX	ALCH	not hispanic or latino	female	white	-15869
+ALCH-AEJY	ALCH	not hispanic or latino	male	white	-29381
+ALCH-AEK0	ALCH	not hispanic or latino	female	white	-23857
+ALCH-AEK1	ALCH	not hispanic or latino	male	white	-22026
+ALCH-AEK4	ALCH	hispanic or latino	male	white	-20800
+ALCH-AEK5	ALCH	not hispanic or latino	female	american indian or alaska native	-27748
+ALCH-AEKA	ALCH	not hispanic or latino	male	white	-24952
+ALCH-AEKE	ALCH	not hispanic or latino	male	asian	-26662
+ALCH-AEKH	ALCH	not hispanic or latino	male	white	-18819
+ALCH-AEKO	ALCH	not hispanic or latino	female	white	-27774
+ALCH-AEKP	ALCH	not hispanic or latino	male	white	-27396
+ALCH-AEKW	ALCH	not hispanic or latino	male	white	-24612
+ALCH-AEL0	ALCH	not hispanic or latino	male	white	-25068
+ALCH-AEL1	ALCH	not hispanic or latino	male	white	-28508
+ALCH-AEL9	ALCH	not hispanic or latino	female	white	-18002
+ALCH-AELB	ALCH	not hispanic or latino	female	white	-18797
+ALCH-AELE	ALCH	not hispanic or latino	male	white	-23055
+ALCH-AELF	ALCH	not hispanic or latino	male	white	-25875
+ALCH-AELK	ALCH	not hispanic or latino	male	white	-25815
+ALCH-AELN	ALCH	not hispanic or latino	male	white	-24935
+ALCH-AELT	ALCH	not hispanic or latino	female	white	-32053
+ALCH-AELU	ALCH	not hispanic or latino	male	white	-30573
+ALCH-AELV	ALCH	not hispanic or latino	male	white	-27955
+ALCH-AEMW	ALCH	not hispanic or latino	male	white	-29836
+ALCH-AENE	ALCH	not hispanic or latino	male	white	-25794
+ALCH-AENI	ALCH	not hispanic or latino	male	white	-21614
+ALCH-AENL	ALCH	not hispanic or latino	female	white	-24440
+ALCH-AENM	ALCH	not hispanic or latino	female	white	-22920
+ALCH-AENR	ALCH	not hispanic or latino	female	white	-25731
+ALCH-AENT	ALCH	not hispanic or latino	male	white	-26450
+ALCH-AENV	ALCH	not hispanic or latino	female	white	-24015
+ALCH-AENY	ALCH	not hispanic or latino	female	white	-16023
+ALCH-AEO1	ALCH	not hispanic or latino	male	white	-26937
+ALCH-AEO6	ALCH	not hispanic or latino	female	white	-24804
+ALCH-AEO8	ALCH	not hispanic or latino	female	white	-25016
+ALCH-AEOE	ALCH	not hispanic or latino	female	white	-28769
+ALCH-AEOI	ALCH	not hispanic or latino	female	white	-23921
+ALCH-AEOR	ALCH	not hispanic or latino	female	white	-21008
+ALCH-AEOS	ALCH	not hispanic or latino	male	white	-26372
+ALCH-AEOX	ALCH	not hispanic or latino	male	white	-21164
+ALCH-AEP2	ALCH	not hispanic or latino	female	white	-26351
+ALCH-AEP3	ALCH	not hispanic or latino	male	white	-23800
+ALCH-AEPD	ALCH	not hispanic or latino	female	white	-27468
+ALCH-AEPH	ALCH	Unknown	male	white	-21237
+ALCH-AEPJ	ALCH	not hispanic or latino	male	white	-24471
+ALCH-AEPL	ALCH	not hispanic or latino	male	white	-29016
+ALCH-AEPM	ALCH	not hispanic or latino	male	white	-25792
+ALCH-AEPN	ALCH	not hispanic or latino	male	white	-22140
+ALCH-AEPR	ALCH	hispanic or latino	male	Unknown	-23603
+ALCH-AEPU	ALCH	not hispanic or latino	female	white	-22572
+ALCH-AEPW	ALCH	not hispanic or latino	male	white	-25892
+ALCH-AEPX	ALCH	not hispanic or latino	female	white	-25460
+ALCH-AEPY	ALCH	not hispanic or latino	female	white	-22704
+ALCH-AEQ9	ALCH	not hispanic or latino	male	black or african american	-25708
+ALCH-AEQG	ALCH	not hispanic or latino	female	white	-24144
+ALCH-AEQM	ALCH	not hispanic or latino	male	white	-19074
+ALCH-AEQO	ALCH	not hispanic or latino	female	white	-21301
+ALCH-AEQP	ALCH	not hispanic or latino	female	white	-26047
+ALCH-AEQR	ALCH	not hispanic or latino	female	white	-24897
+ALCH-AEQS	ALCH	not hispanic or latino	female	white	-26120
+ALCH-AEQT	ALCH	not hispanic or latino	female	white	-15733
+ALCH-AEQW	ALCH	not hispanic or latino	female	black or african american	-21075
+ALCH-AER9	ALCH	not hispanic or latino	female	white	-20807
+ALCH-AERA	ALCH	not hispanic or latino	female	Unknown	-26757
+ALCH-AERB	ALCH	not hispanic or latino	male	white	-27286
+ALCH-AERD	ALCH	not hispanic or latino	female	white	-21398
+ALCH-AERG	ALCH	not hispanic or latino	male	white	-25240
+ALCH-AERM	ALCH	not hispanic or latino	male	white	-23618
+ALCH-AERO	ALCH	not hispanic or latino	female	white	-22487
+ALCH-AERZ	ALCH	not hispanic or latino	female	white	-20728
+ALCH-AES1	ALCH	not hispanic or latino	female	white	-19074
+ALCH-AES2	ALCH	not hispanic or latino	female	white	-22119
+ALCH-AES7	ALCH	not hispanic or latino	male	not reported	-18454
+ALCH-AESB	ALCH	not reported	male	not reported	-22394
+ALCH-AESC	ALCH	not hispanic or latino	female	white	-25821
+ALCH-AESL	ALCH	not hispanic or latino	female	white	-24800
+ALCH-AESM	ALCH	not hispanic or latino	female	white	-27705
+ALCH-AET3	ALCH	not hispanic or latino	male	white	-27621
+ALCH-AET4	ALCH	not hispanic or latino	male	black or african american	-26296
+ALCH-AET5	ALCH	not hispanic or latino	female	white	-29231
+ALCH-AET7	ALCH	not hispanic or latino	male	white	-25620
+ALCH-AETC	ALCH	not hispanic or latino	male	white	-26637
+ALCH-AETE	ALCH	not hispanic or latino	female	white	-26087
+ALCH-AETI	ALCH	Unknown	female	Unknown	-14076
+ALCH-AETJ	ALCH	not hispanic or latino	female	white	-20483
+ALCH-AETK	ALCH	not hispanic or latino	male	white	-15363
+ALCH-AETL	ALCH	not hispanic or latino	male	white	-23143
+ALCH-AEUD	ALCH	not hispanic or latino	male	white	-23384
+ALCH-AEUE	ALCH	not hispanic or latino	male	white	-29410
+ALCH-AEUG	ALCH	hispanic or latino	female	white	-22324
+ALCH-AEUI	ALCH	not hispanic or latino	male	white	-20355
+ALCH-AEUM	ALCH	hispanic or latino	female	white	-25489
+ALCH-AEUO	ALCH	not hispanic or latino	male	white	-23172
+ALCH-AEUS	ALCH	not hispanic or latino	male	white	-26881
+ALCH-AEUT	ALCH	not hispanic or latino	male	white	-26967
+ALCH-AEYM	ALCH	not reported	female	not reported	-29808
+ALCH-AEYO	ALCH	not hispanic or latino	female	white	-23437
+ALCH-AEYP	ALCH	not hispanic or latino	male	asian	-23492
+ALCH-AEYQ	ALCH	not hispanic or latino	female	white	-17163
+ALCH-AEYU	ALCH	not hispanic or latino	female	white	-27499
+ALCH-AEYZ	ALCH	not hispanic or latino	female	white	-19514
+ALCH-AEZ1	ALCH	not hispanic or latino	male	white	-20651
+ALCH-AEZF	ALCH	not hispanic or latino	male	white	-28739
+ALCH-AEZH	ALCH	not hispanic or latino	male	black or african american	-24301
+ALCH-AEZI	ALCH	not hispanic or latino	male	white	-22513
+ALCH-AEZJ	ALCH	not hispanic or latino	female	white	-18225
+ALCH-AEZP	ALCH	not hispanic or latino	male	white	-24812
+ALCH-AEZQ	ALCH	not hispanic or latino	male	asian	-24673
+ALCH-AF1F	ALCH	not hispanic or latino	male	white	-26099
+ALCH-AF1G	ALCH	not hispanic or latino	female	black or african american	-18637
+ALCH-AF1O	ALCH	not hispanic or latino	female	white	-26619
+ALCH-AF1P	ALCH	not hispanic or latino	male	white	-28838
+ALCH-AF1Q	ALCH	not hispanic or latino	male	white	-25499
+ALCH-AF1R	ALCH	not hispanic or latino	male	white	-28153
+ALCH-AF1W	ALCH	not hispanic or latino	male	white	-19513
+ALCH-AF1Y	ALCH	not hispanic or latino	male	white	-27553
+ALCH-AF1Z	ALCH	not hispanic or latino	male	white	-28078
+ALCH-AF3B	ALCH	not hispanic or latino	male	white	-18184
+ALCH-AF3C	ALCH	not hispanic or latino	male	white	-24843
+ALCH-AF3E	ALCH	not hispanic or latino	male	white	-20934
+ALCH-AF3F	ALCH	not hispanic or latino	male	white	-22041
+ALCH-AF3O	ALCH	not hispanic or latino	male	white	-26937
+ALCH-AF3V	ALCH	not hispanic or latino	female	white	-24772
+ALCH-AF3W	ALCH	not hispanic or latino	female	white	-19779
+ALCH-AF3X	ALCH	not hispanic or latino	male	white	-21299
+ALCH-AF3Y	ALCH	Unknown	male	white	-25559
+ALCH-AF48	ALCH	not hispanic or latino	male	white	-25732
+ALCH-AF4A	ALCH	not hispanic or latino	male	white	-26083
+ALCH-AF4F	ALCH	not hispanic or latino	female	white	-22280
+ALCH-AF4G	ALCH	not hispanic or latino	female	white	-24781
+ALCH-AFA1	ALCH	not hispanic or latino	female	white	-18273
+ALCH-AFA2	ALCH	not hispanic or latino	male	white	-24409
+ALCH-AFA3	ALCH	not hispanic or latino	female	white	-24942
+ALCH-AFA4	ALCH	not hispanic or latino	female	white	-26855
+ALCH-AFA5	ALCH	not hispanic or latino	female	white	-26334
+ALCH-AFAA	ALCH	not hispanic or latino	female	white	-25944
+ALCH-AFAG	ALCH	not hispanic or latino	female	white	-28720
+ALCH-AFAW	ALCH	not hispanic or latino	female	white	-24894
+ALCH-AFB0	ALCH	not hispanic or latino	female	black or african american	-25667
+ALCH-AFB4	ALCH	not hispanic or latino	female	white	-20596
+ALCH-AFDH	ALCH	not hispanic or latino	male	asian	-26926
+ALCH-AFDM	ALCH	not hispanic or latino	female	white	-20715
+ALCH-AFDO	ALCH	not hispanic or latino	female	white	-24388
+ALCH-AFDQ	ALCH	not hispanic or latino	female	native hawaiian or other pacific islander	-21243
+ALCH-AFDR	ALCH	not hispanic or latino	female	asian	-22760
+ALCH-AFDU	ALCH	not hispanic or latino	male	white	-25320
+ALCH-AFDV	ALCH	not hispanic or latino	female	white	-28594
+ALCH-AFDX	ALCH	not hispanic or latino	female	black or african american	-24432
+ALCH-AFDY	ALCH	not hispanic or latino	male	white	-26708
+ALCH-AFDZ	ALCH	not hispanic or latino	female	white	-28179
+ALCH-AFE1	ALCH	hispanic or latino	female	white	-28817
+ALCH-AFE2	ALCH	not hispanic or latino	male	white	-25423
+ALCH-AFEH	ALCH	not hispanic or latino	male	white	-27716
+ALCH-AFEI	ALCH	not hispanic or latino	female	white	-25470
+ALCH-AFEL	ALCH	not hispanic or latino	female	white	-25695
+ALCH-AFEX	ALCH	not hispanic or latino	female	white	-25120
+ALCH-AFFB	ALCH	not hispanic or latino	male	white	-27594
+ALCH-AFFC	ALCH	not hispanic or latino	female	white	-17709
+ALCH-AFFJ	ALCH	not hispanic or latino	female	white	-22794
+ALCH-AFFO	ALCH	not hispanic or latino	male	white	-25682
+ALCH-AFFR	ALCH	not hispanic or latino	male	white	-21362
+ALCH-AFFS	ALCH	not hispanic or latino	female	white	-22091
+ALCH-AFFU	ALCH	not hispanic or latino	female	white	-24570
+ALCH-AFFW	ALCH	not hispanic or latino	female	asian	-23071
+ALCH-AFG0	ALCH	not hispanic or latino	female	white	-21745
+ALCH-AFG1	ALCH	not hispanic or latino	male	white	-19243
+ALCH-AFG4	ALCH	not hispanic or latino	male	white	-29893
+ALCH-AFGY	ALCH	not hispanic or latino	male	white	-21619
+ALCH-AFH0	ALCH	not hispanic or latino	male	white	-20285
+ALCH-AFJO	ALCH	not hispanic or latino	female	white	-20890
+ALCH-AFJU	ALCH	not hispanic or latino	male	not reported	-22704
+ALCH-AFJW	ALCH	not hispanic or latino	male	white	-28790
+ALCH-AFJX	ALCH	not hispanic or latino	female	white	-25003
+ALCH-AFK0	ALCH	hispanic or latino	female	white	-22107
+ALCH-B000	ALCH	not hispanic or latino	female	white	-25403
+ALCH-B002	ALCH	not hispanic or latino	male	white	-25430
+ALCH-B00Z	ALCH	not hispanic or latino	male	white	-24334
+ALCH-B010	ALCH	not hispanic or latino	female	white	-23638
+ALCH-B012	ALCH	not hispanic or latino	female	white	-27473
+ALCH-B014	ALCH	not hispanic or latino	female	white	-25786
+ALCH-B017	ALCH	not hispanic or latino	female	white	-28755
+ALCH-B018	ALCH	not hispanic or latino	male	white	-21055
+ALCH-B01C	ALCH	not hispanic or latino	female	white	-25592
+ALCH-B01E	ALCH	not hispanic or latino	female	white	-20937
+ALCH-B01R	ALCH	not hispanic or latino	male	white	-25614
+ALCH-B01U	ALCH	not hispanic or latino	female	white	-25816
+ALCH-B01X	ALCH	not hispanic or latino	male	white	-24441
+ALCH-B020	ALCH	not hispanic or latino	male	white	-25114
+ALCH-B022	ALCH	not hispanic or latino	male	white	-30961
+ALCH-B024	ALCH	not hispanic or latino	male	white	-24090
+ALCH-B026	ALCH	not hispanic or latino	male	white	-24564
+ALCH-B02J	ALCH	not hispanic or latino	male	white	-26982
+ALCH-B02M	ALCH	not hispanic or latino	female	asian	-24677
+ALCH-B02O	ALCH	not hispanic or latino	male	white	-22886
+ALCH-B02R	ALCH	not hispanic or latino	male	white	-27491
+ALCH-B03X	ALCH	not hispanic or latino	male	white	-25302
+ALCH-B042	ALCH	not hispanic or latino	female	asian	-21235
+ALCH-B044	ALCH	not hispanic or latino	male	white	-20001
+ALCH-B045	ALCH	not hispanic or latino	female	white	-25756
+ALCH-B046	ALCH	not hispanic or latino	female	white	-25884
+ALCH-B049	ALCH	not hispanic or latino	female	black or african american	-21293
+ALCH-B04A	ALCH	not hispanic or latino	male	white	-26007
+ALCH-B04B	ALCH	not hispanic or latino	male	white	-26623
+ALCH-B04D	ALCH	not hispanic or latino	female	white	-22863
+ALCH-B04E	ALCH	not hispanic or latino	female	black or african american	-20258
+ALCH-B04G	ALCH	not reported	female	not reported	-21059
+ALCH-B04I	ALCH	not hispanic or latino	male	white	-18936
+ALCH-B04L	ALCH	not hispanic or latino	female	white	-21019
+ALCH-B04T	ALCH	not hispanic or latino	male	white	-24706
+ALCH-B04Y	ALCH	not hispanic or latino	female	white	-22060
+ALCH-B054	ALCH	not hispanic or latino	female	white	-21413
+ALCH-B057	ALCH	not hispanic or latino	male	white	-27387
+ALCH-B059	ALCH	not hispanic or latino	male	white	-25017
+ALCH-B05A	ALCH	not hispanic or latino	male	white	-27541
+ALCH-B05B	ALCH	not hispanic or latino	male	white	-25235
+ALCH-B05C	ALCH	not hispanic or latino	male	native hawaiian or other pacific islander	-22874
+ALCH-B05E	ALCH	not hispanic or latino	male	white	-27105
+ALCH-B05J	ALCH	not hispanic or latino	female	black or african american	-29154
+ALCH-B05L	ALCH	not hispanic or latino	male	white	-27621
+ALCH-B05P	ALCH	not hispanic or latino	female	black or african american	-24153
+ALCH-B05Y	ALCH	not hispanic or latino	female	white	-21507
+ALCH-B05Z	ALCH	not hispanic or latino	female	white	-22167
+ALCH-B060	ALCH	not hispanic or latino	male	black or african american	-27825
+ALCH-B063	ALCH	not hispanic or latino	female	white	-19939
+ALCH-B06B	ALCH	not hispanic or latino	female	black or african american	-24277
+ALCH-B06E	ALCH	not hispanic or latino	male	white	-22293
+ALCH-B06I	ALCH	not hispanic or latino	female	white	-24884
+ALCH-B06L	ALCH	Unknown	male	black or african american	-13899
+ALCH-B0A7	ALCH	not hispanic or latino	male	white	-25796
+ALCH-B0A8	ALCH	not hispanic or latino	male	white	-26771
+ALCH-B0AF	ALCH	not hispanic or latino	male	white	-30035
+ALCH-B0AG	ALCH	not hispanic or latino	female	white	-28891
+ALCH-B0AK	ALCH	not hispanic or latino	male	white	-25475
+ALCH-B0AL	ALCH	not hispanic or latino	male	white	-32872
+ALCH-B0AO	ALCH	not hispanic or latino	male	black or african american	-18601
+ALCH-B0AW	ALCH	not hispanic or latino	female	white	-23524
+ALCH-B0AY	ALCH	not hispanic or latino	female	white	-26916
+ALCH-B0AZ	ALCH	not hispanic or latino	male	white	-24608
+ALCH-B0B1	ALCH	not hispanic or latino	male	white	-26252
+ALCH-B0B2	ALCH	not hispanic or latino	female	white	-25238
+ALCH-B0BA	ALCH	not hispanic or latino	male	white	-26984
+ALCH-B0BD	ALCH	not hispanic or latino	male	white	-27642
+ALCH-B0BN	ALCH	not hispanic or latino	male	white	-25034
+ALCH-B0BX	ALCH	not hispanic or latino	female	white	-20178
+ALCH-B0BY	ALCH	not hispanic or latino	female	white	-28063
+ALCH-B0C7	ALCH	not hispanic or latino	male	white	-23926
+ALCH-B0CF	ALCH	not hispanic or latino	male	white	-30292
+ALCH-B0CM	ALCH	not hispanic or latino	male	white	-21776
+ALCH-B0CN	ALCH	not hispanic or latino	male	white	-18433
+ALCH-B0CT	ALCH	not hispanic or latino	male	white	-20468
+ALCH-B0D0	ALCH	not hispanic or latino	male	white	-26481
+ALCH-B0D2	ALCH	hispanic or latino	male	white	-21393
+ALCH-B0D3	ALCH	hispanic or latino	male	not reported	-23927
+ALCH-B0D7	ALCH	not hispanic or latino	female	white	-26737
+ALCH-B0D9	ALCH	not hispanic or latino	male	white	-18664
+ALCH-B0DB	ALCH	not hispanic or latino	female	white	-24653
+ALCH-B0DK	ALCH	not hispanic or latino	female	white	-28977
+ALCH-B0DL	ALCH	not hispanic or latino	female	white	-30154
+ALCH-B0DN	ALCH	not hispanic or latino	female	white	-25462
+ALCH-B0DR	ALCH	not hispanic or latino	female	white	-28491
+ALCH-B0DT	ALCH	not hispanic or latino	female	white	-22791
+ALCH-B0DV	ALCH	not hispanic or latino	male	white	-20131
+ALCH-B0DZ	ALCH	not hispanic or latino	female	white	-24713
+ALCH-B0E5	ALCH	not hispanic or latino	female	white	-26725
+ALCH-B0E7	ALCH	not hispanic or latino	male	white	-24442
+ALCH-B0EF	ALCH	not hispanic or latino	male	white	-28962
+ALCH-B0EI	ALCH	not hispanic or latino	female	black or african american	-17927
+ALCH-B0EJ	ALCH	not hispanic or latino	male	white	-25534
+ALCH-B0EK	ALCH	not hispanic or latino	female	black or african american	-18408
+ALCH-B0EL	ALCH	not hispanic or latino	male	white	-23940
+ALCH-B0EM	ALCH	not hispanic or latino	female	white	-31211
+ALCH-B0ER	ALCH	not hispanic or latino	female	white	-27563
+ALCH-B0EX	ALCH	not hispanic or latino	female	white	-26639
+ALCH-B0F5	ALCH	not hispanic or latino	female	black or african american	-27942
+ALCH-B0F7	ALCH	hispanic or latino	female	not reported	-17502
+ALCH-B0F8	ALCH	not hispanic or latino	male	white	-24866
+ALCH-B0FE	ALCH	not hispanic or latino	male	white	-21039
+ALCH-B0FL	ALCH	not hispanic or latino	female	white	-22703
+ALCH-B0FR	ALCH	Unknown	female	white	-27810
+ALCH-B0FU	ALCH	not reported	female	Unknown	-31637
+ALCH-B0FW	ALCH	not reported	male	white	-26666
+ALCH-B0FZ	ALCH	not hispanic or latino	female	white	-19910
+ALCH-B0G0	ALCH	not hispanic or latino	male	not reported	-20899
+ALCH-B0G2	ALCH	not hispanic or latino	female	white	-28194
+ALCH-B0G8	ALCH	not hispanic or latino	female	white	-23764
+ALCH-B0G9	ALCH	not hispanic or latino	male	white	-24566
+ALCH-B0GA	ALCH	not hispanic or latino	female	white	-30344
+ALCH-B0GC	ALCH	not hispanic or latino	male	black or african american	-20153
+ALCH-B0GX	ALCH	not hispanic or latino	male	white	-22726
+ALCH-B0H2	ALCH	not hispanic or latino	male	white	-22998
+ALCH-B0H4	ALCH	not hispanic or latino	male	white	-28640
+ALCH-B0H5	ALCH	not hispanic or latino	female	white	-25771
+ALCH-B0HB	ALCH	not hispanic or latino	male	white	-28715
+ALCH-B0HG	ALCH	not hispanic or latino	male	white	-25655
+ALCH-B0HI	ALCH	not hispanic or latino	male	white	-23550
+ALCH-B0HJ	ALCH	not hispanic or latino	female	black or african american	-26037
+ALCH-B0HM	ALCH	not hispanic or latino	male	white	-26459
+ALCH-B0HN	ALCH	not hispanic or latino	female	white	-22011
+ALCH-B1H7	ALCH	not hispanic or latino	female	white	-28077
+ALCH-B1HB	ALCH	not hispanic or latino	male	white	-19299
+ALCH-B1HG	ALCH	hispanic or latino	male	white	-32669
+ALCH-B1IR	ALCH	not hispanic or latino	female	white	-25975
+ALCH-B1IS	ALCH	not hispanic or latino	female	white	-25295
+ALCH-B1IU	ALCH	not hispanic or latino	female	white	-18673
+ALCH-B1J3	ALCH	not hispanic or latino	male	white	-27053
+ALCH-B1J4	ALCH	not hispanic or latino	female	white	-27913
+ALCH-B1J7	ALCH	not hispanic or latino	male	black or african american	-27030
+ALCH-B1JF	ALCH	not hispanic or latino	female	white	-24252
+ALCH-B1JG	ALCH	not hispanic or latino	male	white	-21535
+ALCH-B1JH	ALCH	not hispanic or latino	female	white	-20462
+ALCH-B1JJ	ALCH	not hispanic or latino	female	white	-22405
+ALCH-B1JL	ALCH	not hispanic or latino	female	white	-20436
+ALCH-B1JP	ALCH	not hispanic or latino	male	white	-26698
+ALCH-B1JQ	ALCH	not hispanic or latino	female	white	-21213
+ALCH-B1JX	ALCH	not hispanic or latino	female	white	-30555
+ALCH-B1JY	ALCH	not hispanic or latino	female	asian	-18761
+ALCH-B1K2	ALCH	not hispanic or latino	male	white	-21917
+ALCH-B1K4	ALCH	not hispanic or latino	male	white	-19547
+ALCH-B1K5	ALCH	not hispanic or latino	female	white	-28498
+ALCH-B1KG	ALCH	not hispanic or latino	male	Unknown	-16096
+ALCH-B1KL	ALCH	not hispanic or latino	male	white	-28521
+ALCH-B1KP	ALCH	not hispanic or latino	female	white	-25641
+ALCH-B1KQ	ALCH	not hispanic or latino	male	white	-24548
+ALCH-B1KR	ALCH	not hispanic or latino	female	white	-28148
+ALCH-B1L0	ALCH	not hispanic or latino	female	white	-24040
+ALCH-B1L2	ALCH	not hispanic or latino	female	black or african american	-22781
+ALCH-B1L4	ALCH	not hispanic or latino	male	black or african american	-27673
+ALCH-B1LB	ALCH	not hispanic or latino	male	white	-29219
+ALCH-B1LH	ALCH	not hispanic or latino	male	black or african american	-23329
+ALCH-B1LI	ALCH	not hispanic or latino	female	white	-24920
+ALCH-B1LM	ALCH	not hispanic or latino	female	white	-30207
+ALCH-B1LO	ALCH	not hispanic or latino	male	white	-25953
+ALCH-B1LV	ALCH	not hispanic or latino	female	white	-22797
+ALCH-B1M8	ALCH	not hispanic or latino	male	white	-19684
+ALCH-B1M9	ALCH	not hispanic or latino	female	white	-25139
+ALCH-B1MH	ALCH	not hispanic or latino	female	white	-23653
+ALCH-B1MM	ALCH	not hispanic or latino	male	white	-20675
+ALCH-B1MQ	ALCH	not hispanic or latino	male	white	-21317
+ALCH-B1MX	ALCH	not hispanic or latino	female	white	-27005
+ALCH-B1N1	ALCH	not hispanic or latino	female	white	-25420
+ALCH-B1N2	ALCH	not hispanic or latino	male	white	-24755
+ALCH-B1N4	ALCH	not hispanic or latino	male	white	-24802
+ALCH-B1N5	ALCH	not hispanic or latino	female	black or african american	-23374
+ALCH-B1N6	ALCH	not hispanic or latino	female	white	-23685
+ALCH-B1N8	ALCH	not hispanic or latino	male	white	-23950
+ALCH-B1NC	ALCH	not hispanic or latino	female	black or african american	-21119
+ALCH-B1ND	ALCH	not hispanic or latino	male	white	-28480
+ALCH-B1NE	ALCH	not hispanic or latino	male	white	-24928
+ALCH-B1NJ	ALCH	not hispanic or latino	male	white	-26036
+ALCH-B1NK	ALCH	not hispanic or latino	female	white	-20216
+ALCH-B1NM	ALCH	not hispanic or latino	female	white	-26333
+ALCH-B1NN	ALCH	not hispanic or latino	female	asian	-25817
+ALCH-B1NO	ALCH	not hispanic or latino	male	white	-24741
+ALCH-B1NP	ALCH	not hispanic or latino	female	black or african american	-19451
+ALCH-B1NS	ALCH	not hispanic or latino	male	white	-24809
+ALCH-B1NZ	ALCH	not hispanic or latino	male	white	-27452
+ALCH-B1O0	ALCH	not hispanic or latino	female	white	-25519
+ALCH-B1O1	ALCH	not hispanic or latino	male	white	-24260
+ALCH-B1O6	ALCH	not hispanic or latino	female	white	-23511
+ALCH-B1O8	ALCH	not hispanic or latino	female	asian	-20293
+ALCH-B1OC	ALCH	not hispanic or latino	female	white	-26150
+ALCH-B1OG	ALCH	not hispanic or latino	female	white	-24886
+ALCH-B1OH	ALCH	not hispanic or latino	female	white	-26051
+ALCH-B1OI	ALCH	not reported	male	white	-27670
+ALCH-B1OL	ALCH	not hispanic or latino	male	white	-27170
+ALCH-B1OP	ALCH	not hispanic or latino	female	white	-23415
+ALCH-B1OS	ALCH	not hispanic or latino	female	white	-25196
+ALCH-B1OX	ALCH	not hispanic or latino	female	white	-21180
+ALCH-B1P0	ALCH	not hispanic or latino	female	black or african american	-22881
+ALCH-B1P7	ALCH	not hispanic or latino	male	white	-25490
+ALCH-B1PE	ALCH	not hispanic or latino	male	black or african american	-23077
+ALCH-B1PF	ALCH	not hispanic or latino	female	white	-20965
+ALCH-B1PG	ALCH	not hispanic or latino	male	white	-25324
+ALCH-B1PL	ALCH	not hispanic or latino	male	white	-26616
+ALCH-B1PM	ALCH	not hispanic or latino	female	white	-19794
+ALCH-B1PP	ALCH	not hispanic or latino	female	white	-19313
+ALCH-B1PS	ALCH	not hispanic or latino	male	white	-26244
+ALCH-B1Q2	ALCH	not hispanic or latino	male	white	-26028
+ALCH-B1Q3	ALCH	not hispanic or latino	male	white	-21996
+ALCH-B1Q7	ALCH	not hispanic or latino	female	white	-15366
+ALCH-B1Q9	ALCH	not hispanic or latino	female	white	-22193
+ALCH-B1QD	ALCH	not hispanic or latino	male	white	-25576
+ALCH-B1QE	ALCH	hispanic or latino	male	white	-25292
+ALCH-B1QK	ALCH	not hispanic or latino	female	white	-28222
+ALCH-B1R3	ALCH	not hispanic or latino	male	white	-23499
+ALCH-B1R7	ALCH	not hispanic or latino	male	white	-23888
+ALCH-B1RA	ALCH	not hispanic or latino	female	white	-27820
+ALCH-B1RG	ALCH	not hispanic or latino	female	white	-24835
+ALCH-B1RJ	ALCH	not hispanic or latino	male	white	-27352
+ALCH-B1RL	ALCH	not hispanic or latino	male	white	-29904
+ALCH-B1RM	ALCH	not hispanic or latino	male	white	-27170
+ALCH-B1RW	ALCH	not hispanic or latino	female	white	-29543
+ALCH-B1RX	ALCH	not hispanic or latino	female	white	-22287
+ALCH-B1S2	ALCH	not hispanic or latino	male	white	-24257
+ALCH-B1S3	ALCH	not hispanic or latino	male	white	-29524
+ALCH-B1S4	ALCH	not hispanic or latino	male	black or african american	-22538
+ALCH-B1S9	ALCH	not hispanic or latino	female	black or african american	-25682
+ALCH-B1T9	ALCH	not hispanic or latino	female	black or african american	-28165
+ALCH-B1TE	ALCH	not hispanic or latino	female	white	-17495
+ALCH-B1TF	ALCH	not hispanic or latino	male	asian	-24519
+ALCH-B1TK	ALCH	not hispanic or latino	male	white	-20651
+ALCH-B1TQ	ALCH	not hispanic or latino	female	white	-22413
+ALCH-B1TU	ALCH	not hispanic or latino	female	white	-21823
+ALCH-B1TY	ALCH	not hispanic or latino	male	white	-22704
+ALCH-B1U0	ALCH	hispanic or latino	female	white	-21557
+ALCH-B1U2	ALCH	not hispanic or latino	male	white	-21834
+ALCH-B1U5	ALCH	not hispanic or latino	female	white	-25835
+ALCH-B1UB	ALCH	not hispanic or latino	female	asian	-23690
+ALCH-B1UD	ALCH	not hispanic or latino	male	asian	-24669
+ALCH-B1UF	ALCH	not hispanic or latino	female	white	-27482
+ALCH-B1UJ	ALCH	not hispanic or latino	female	black or african american	-19007
+ALCH-B1UL	ALCH	not hispanic or latino	female	black or african american	-21432
+ALCH-B1UM	ALCH	hispanic or latino	male	white	-23604
+ALCH-B1UN	ALCH	not hispanic or latino	male	white	-23878
+ALCH-B1UP	ALCH	not hispanic or latino	female	white	-27202
+ALCH-B1UR	ALCH	not hispanic or latino	male	white	-26087
+ALCH-B1UV	ALCH	not hispanic or latino	female	white	-23270
+ALCH-B1UW	ALCH	not hispanic or latino	female	white	-28779
+ALCH-B1UZ	ALCH	not hispanic or latino	female	white	-27870
+ALCH-B1V7	ALCH	not hispanic or latino	male	white	-26703
+ALCH-B1VB	ALCH	not hispanic or latino	female	white	-23423
+ALCH-B1VC	ALCH	not hispanic or latino	female	white	-22180
+ALCH-B1VL	ALCH	not hispanic or latino	male	white	-22835
+ALCH-B1VV	ALCH	hispanic or latino	female	Unknown	-20577
+ALCH-B1W5	ALCH	not hispanic or latino	male	white	-23133
+ALCH-B1W6	ALCH	not hispanic or latino	male	white	-23673
+ALCH-B1WB	ALCH	not hispanic or latino	female	black or african american	-26701
+ALCH-B1WD	ALCH	not hispanic or latino	female	white	-29235
+ALCH-B1WE	ALCH	not hispanic or latino	female	white	-25818
+ALCH-B1WM	ALCH	not hispanic or latino	female	white	-24104
+ALCH-B1WQ	ALCH	not hispanic or latino	male	black or african american	-27691
+ALCH-B1WU	ALCH	not hispanic or latino	male	white	-26157
+ALCH-B1WW	ALCH	not hispanic or latino	male	white	-28404
+ALCH-B1X3	ALCH	not hispanic or latino	female	white	-23944
+ALCH-B1X4	ALCH	not hispanic or latino	female	white	-22527
+ALCH-B1X8	ALCH	not hispanic or latino	male	white	-22822
+ALCH-B1XA	ALCH	not hispanic or latino	male	white	-25999
+ALCH-B1XF	ALCH	not hispanic or latino	male	white	-19905
+ALCH-B1XG	ALCH	not reported	male	white	-26015
+ALCH-B1XH	ALCH	not hispanic or latino	male	white	-21859
+ALCH-B1XJ	ALCH	not hispanic or latino	male	white	-26860
+ALCH-B1XQ	ALCH	not hispanic or latino	female	white	-23589
+ALCH-B1XV	ALCH	not hispanic or latino	female	white	-27413
+ALCH-B1XW	ALCH	not hispanic or latino	male	white	-19670
+ALCH-B1XX	ALCH	not hispanic or latino	male	white	-28402
+ALCH-B1Y0	ALCH	not hispanic or latino	female	white	-22501
+ALCH-B1Y4	ALCH	not hispanic or latino	female	white	-27628
+ALCH-B1Y6	ALCH	not hispanic or latino	female	white	-26322
+ALCH-B1YC	ALCH	not hispanic or latino	female	white	-29763
+ALCH-B1YG	ALCH	hispanic or latino	male	Unknown	-17933
+ALCH-B1YJ	ALCH	not hispanic or latino	male	white	-31582
+ALCH-B1YK	ALCH	not hispanic or latino	female	white	-20983
+ALCH-B1YN	ALCH	not hispanic or latino	male	white	-24092
+ALCH-B1YW	ALCH	not hispanic or latino	female	white	-25122
+ALCH-B1YZ	ALCH	not hispanic or latino	female	white	-25273
+ALCH-B1Z0	ALCH	not hispanic or latino	female	white	-24377
+ALCH-B1Z3	ALCH	not hispanic or latino	female	white	-20999
+ALCH-B1Z4	ALCH	not hispanic or latino	male	white	-25807
+ALCH-B1Z7	ALCH	not hispanic or latino	male	white	-21552
+ALCH-B1ZA	ALCH	not hispanic or latino	male	white	-32309
+ALCH-B1ZJ	ALCH	not hispanic or latino	male	white	-26877
+ALCH-B1ZL	ALCH	not hispanic or latino	female	black or african american	-19443
+ALCH-B1ZU	ALCH	not hispanic or latino	male	white	-26839
+ALCH-B1ZV	ALCH	not hispanic or latino	female	white	-25971
+ALCH-B202	ALCH	not hispanic or latino	male	white	-22231
+ALCH-B209	ALCH	not hispanic or latino	female	white	-24699
+ALCH-B20J	ALCH	not hispanic or latino	female	asian	-25095
+ALCH-B20L	ALCH	not hispanic or latino	female	white	-24920
+ALCH-B20P	ALCH	not hispanic or latino	female	white	-22447
+ALCH-B20S	ALCH	not hispanic or latino	female	not reported	-20760
+ALCH-B20T	ALCH	not hispanic or latino	female	white	-26557
+ALCH-B20V	ALCH	not hispanic or latino	female	white	-25671
+ALCH-B20W	ALCH	not hispanic or latino	male	white	-22299
+ALCH-B20Y	ALCH	not hispanic or latino	male	black or african american	-22706
+ALCH-B217	ALCH	not hispanic or latino	female	white	-19898
+ALCH-B219	ALCH	not hispanic or latino	male	white	-25650
+ALCH-B21B	ALCH	not hispanic or latino	female	white	-27391
+ALCH-B21U	ALCH	not hispanic or latino	male	white	-23065
+ALCH-B21X	ALCH	not hispanic or latino	male	white	-29913
+ALCH-B21Y	ALCH	not hispanic or latino	female	white	-30673
+ALCH-B221	ALCH	not hispanic or latino	male	white	-27193
+ALCH-B24C	ALCH	not hispanic or latino	male	white	-21485
+ALCH-B24D	ALCH	not hispanic or latino	male	white	-28654
+ALCH-B24G	ALCH	not hispanic or latino	male	white	-25440
+ALCH-B24H	ALCH	not hispanic or latino	female	white	-26385
+ALCH-B24I	ALCH	not hispanic or latino	female	white	-26945
+ALCH-B24J	ALCH	not hispanic or latino	female	white	-22509
+ALCH-B24K	ALCH	not hispanic or latino	male	white	-25371
+ALCH-B24L	ALCH	not hispanic or latino	male	black or african american	-25383
+ALCH-B24T	ALCH	not hispanic or latino	female	white	-20600
+ALCH-B24U	ALCH	not hispanic or latino	female	white	-21045
+ALCH-B24V	ALCH	not hispanic or latino	female	white	-26954
+ALCH-B252	ALCH	not hispanic or latino	male	white	-26609
+ALCH-B254	ALCH	not hispanic or latino	male	white	-21600
+ALCH-B25H	ALCH	not hispanic or latino	female	white	-19297
+ALCH-B25I	ALCH	not hispanic or latino	female	white	-27575
+ALCH-B25K	ALCH	not hispanic or latino	female	black or african american	-22450
+ALCH-B25N	ALCH	not hispanic or latino	male	white	-25551
+ALCH-B25O	ALCH	not hispanic or latino	male	white	-25836
+ALCH-B25Q	ALCH	not hispanic or latino	female	white	-26418
+ALCH-B25R	ALCH	not hispanic or latino	female	white	-21784
+ALCH-B25Z	ALCH	hispanic or latino	female	white	-27219
+ALCH-B260	ALCH	not hispanic or latino	female	black or african american	-26366
+ALCH-B264	ALCH	not hispanic or latino	male	white	-25395
+ALCH-B26A	ALCH	not hispanic or latino	male	white	-29016
+ALCH-B26E	ALCH	not hispanic or latino	female	white	-31264
+ALCH-B26F	ALCH	not reported	male	white	-21632
+ALCH-B26H	ALCH	not hispanic or latino	female	white	-18001
+ALCH-B26O	ALCH	not hispanic or latino	female	white	-28788
+ALCH-B26R	ALCH	not hispanic or latino	female	native hawaiian or other pacific islander	-25642
+ALCH-B26T	ALCH	not hispanic or latino	male	white	-29478
+ALCH-B26V	ALCH	not hispanic or latino	male	white	-20953
+ALCH-B274	ALCH	not hispanic or latino	male	not reported	-24644
+ALCH-B275	ALCH	not hispanic or latino	male	white	-24448
+ALCH-B279	ALCH	not reported	male	white	-29279
+ALCH-B27G	ALCH	not hispanic or latino	male	white	-29027
+ALCH-B27H	ALCH	not reported	male	not reported	-23745
+ALCH-B27L	ALCH	not hispanic or latino	male	white	-27351
+ALCH-B27M	ALCH	not hispanic or latino	male	white	-23761
+ALCH-B27U	ALCH	not hispanic or latino	female	white	-24172
+ALCH-B27Z	ALCH	not reported	male	white	-26425
+ALCH-B282	ALCH	not hispanic or latino	female	white	-22290
+ALCH-B285	ALCH	hispanic or latino	male	not reported	-25179
+ALCH-B286	ALCH	not hispanic or latino	male	white	-21494
+ALCH-B289	ALCH	not reported	female	not reported	-23371
+ALCH-B28B	ALCH	not hispanic or latino	female	white	-21372
+ALCH-B28F	ALCH	not hispanic or latino	male	white	-20261
+ALCH-B28G	ALCH	not hispanic or latino	female	white	-26771
+ALCH-B28K	ALCH	not reported	female	white	-28561
+ALCH-B28O	ALCH	not hispanic or latino	male	white	-18791
+ALCH-B28P	ALCH	not hispanic or latino	female	white	-21599
+ALCH-B28R	ALCH	not hispanic or latino	male	white	-23563
+ALCH-B29E	ALCH	not hispanic or latino	female	white	-26023
+ALCH-B29G	ALCH	not hispanic or latino	male	black or african american	-24495
+ALCH-B29H	ALCH	not hispanic or latino	female	white	-21775
+ALCH-B29P	ALCH	not hispanic or latino	male	white	-24067
+ALCH-B29U	ALCH	not hispanic or latino	male	white	-25882
+ALCH-B29V	ALCH	not hispanic or latino	male	white	-25022
+ALCH-B29W	ALCH	not hispanic or latino	male	white	-29210
+ALCH-B29Z	ALCH	not hispanic or latino	male	white	-24134
+ALCH-B2A0	ALCH	not hispanic or latino	male	black or african american	-21976
+ALCH-B2A1	ALCH	not hispanic or latino	male	white	-21795
+ALCH-B2A2	ALCH	not hispanic or latino	male	white	-23615
+ALCH-B2AC	ALCH	not hispanic or latino	male	white	-21808
+ALCH-B2AE	ALCH	not hispanic or latino	female	white	-24069
+ALCH-B2AY	ALCH	not hispanic or latino	male	white	-24721
+ALCH-B2B2	ALCH	not hispanic or latino	male	white	-28906
+ALCH-B2B4	ALCH	not hispanic or latino	female	asian	-24594
+ALCH-B2B7	ALCH	not hispanic or latino	male	white	-30288
+ALCH-B2B8	ALCH	not hispanic or latino	female	white	-28226
+ALCH-B2B9	ALCH	not hispanic or latino	male	white	-25518
+ALCH-B2BL	ALCH	not hispanic or latino	male	white	-23567
+ALCH-B2BM	ALCH	not hispanic or latino	male	white	-27934
+ALCH-B2BP	ALCH	not hispanic or latino	male	white	-28519
+ALCH-B2BU	ALCH	not hispanic or latino	female	white	-22983
+ALCH-B2C3	ALCH	not hispanic or latino	male	white	-25071
+ALCH-B2C4	ALCH	not hispanic or latino	female	white	-25956
+ALCH-B2C8	ALCH	not hispanic or latino	female	black or african american	-26796
+ALCH-B2C9	ALCH	not hispanic or latino	female	white	-24261
+ALCH-B2CE	ALCH	not hispanic or latino	male	white	-28770
+ALCH-B2CI	ALCH	not hispanic or latino	male	white	-31421
+ALCH-B2CK	ALCH	not reported	male	white	-24965
+ALCH-B2CL	ALCH	hispanic or latino	male	white	-24541
+ALCH-B2CW	ALCH	not hispanic or latino	male	white	-27945
+ALCH-B2CX	ALCH	not hispanic or latino	male	white	-24054
+ALCH-B2D4	ALCH	not hispanic or latino	female	white	-28786
+ALCH-B2D5	ALCH	not hispanic or latino	female	black or african american	-24487
+ALCH-B2D9	ALCH	not hispanic or latino	female	white	-26237
+ALCH-B2DB	ALCH	not hispanic or latino	male	white	-27884
+ALCH-B2DC	ALCH	not hispanic or latino	female	white	-18280
+ALCH-B2DD	ALCH	not hispanic or latino	male	white	-19755
+ALCH-B2DE	ALCH	not hispanic or latino	male	white	-24111
+ALCH-B2DG	ALCH	not hispanic or latino	male	white	-21167
+ALCH-B2DJ	ALCH	not hispanic or latino	female	white	-25687
+ALCH-B2DK	ALCH	not hispanic or latino	female	white	-28094
+ALCH-B2DL	ALCH	not hispanic or latino	male	black or african american	-23846
+ALCH-B2DP	ALCH	not hispanic or latino	female	white	-25504
+ALCH-B2DR	ALCH	not hispanic or latino	female	white	-27173
+ALCH-B2DS	ALCH	not hispanic or latino	female	white	-19973
+ALCH-B2DZ	ALCH	not hispanic or latino	female	white	-13302
+ALCH-B2E0	ALCH	not hispanic or latino	male	white	-24760
+ALCH-B2E1	ALCH	not hispanic or latino	female	white	-26238
+ALCH-B2E7	ALCH	not hispanic or latino	female	white	-24595
+ALCH-B2E8	ALCH	not hispanic or latino	female	white	-26213
+ALCH-B2E9	ALCH	not hispanic or latino	female	white	-21750
+ALCH-B2EA	ALCH	not hispanic or latino	male	american indian or alaska native	-20860
+ALCH-B2EC	ALCH	not hispanic or latino	male	white	-29042
+ALCH-B2EH	ALCH	not hispanic or latino	female	white	-23123
+ALCH-B2EJ	ALCH	not hispanic or latino	female	white	-20888
+ALCH-B2EL	ALCH	not hispanic or latino	female	white	-28506
+ALCH-B2EM	ALCH	not hispanic or latino	female	black or african american	-24713
+ALCH-B2FK	ALCH	not hispanic or latino	female	white	-24407
+ALCH-B2LM	ALCH	not hispanic or latino	male	white	-24060
+ALCH-B2LN	ALCH	not hispanic or latino	female	white	-23131
+ALCH-B2LQ	ALCH	not hispanic or latino	male	asian	-23542
+ALCH-B2LR	ALCH	not hispanic or latino	male	white	-26234
+ALCH-B2M2	ALCH	not hispanic or latino	female	white	-24276
+ALCH-B2M7	ALCH	not hispanic or latino	female	white	-24824
+ALCH-B2MH	ALCH	not hispanic or latino	female	white	-20894
+ALCH-B2MK	ALCH	not hispanic or latino	male	white	-27100
+ALCH-B2ML	ALCH	not hispanic or latino	female	white	-14867
+ALCH-B2MN	ALCH	not hispanic or latino	male	white	-25725
+ALCH-B2MW	ALCH	not hispanic or latino	male	white	-26992
+ALCH-B2MX	ALCH	not hispanic or latino	male	white	-26669
+ALCH-B2NG	ALCH	not hispanic or latino	male	not reported	-27664
+ALCH-B2NH	ALCH	not hispanic or latino	female	white	-28590
+ALCH-B2NK	ALCH	not hispanic or latino	female	white	-27481
+ALCH-B2NT	ALCH	not hispanic or latino	female	white	-26780
+ALCH-B2NU	ALCH	not hispanic or latino	female	white	-24149
+ALCH-B2NW	ALCH	not hispanic or latino	female	white	-20693
+ALCH-B2O6	ALCH	not hispanic or latino	male	white	-24081
+ALCH-B2O7	ALCH	not hispanic or latino	female	black or african american	-24688
+ALCH-B2O8	ALCH	not hispanic or latino	male	white	-20874
+ALCH-B2OE	ALCH	not hispanic or latino	male	white	-26012
+ALCH-B2OI	ALCH	not hispanic or latino	male	white	-22698
+ALCH-B2OL	ALCH	not hispanic or latino	male	white	-25524
+ALCH-B2ON	ALCH	not reported	female	white	-26982
+ALCH-B2OR	ALCH	not hispanic or latino	female	white	-28876
+ALCH-B2OS	ALCH	not hispanic or latino	female	white	-21483
+ALCH-B2OV	ALCH	not hispanic or latino	male	white	-24466
+ALCH-B2P4	ALCH	not hispanic or latino	female	asian	-26399
+ALCH-B2P6	ALCH	not hispanic or latino	male	white	-22012
+ALCH-B2PJ	ALCH	not hispanic or latino	female	white	-24164
+ALCH-B2PK	ALCH	not hispanic or latino	male	white	-23425
+ALCH-B2PU	ALCH	not hispanic or latino	male	white	-25973
+ALCH-B2PX	ALCH	not hispanic or latino	female	white	-27661
+ALCH-B2Q1	ALCH	not hispanic or latino	male	white	-22422
+ALCH-B2Q4	ALCH	not hispanic or latino	male	white	-21279
+ALCH-B2Q8	ALCH	not hispanic or latino	female	white	-27508
+ALCH-B2QB	ALCH	not hispanic or latino	male	white	-26005
+ALCH-B2QF	ALCH	not hispanic or latino	female	white	-21824
+ALCH-B2QG	ALCH	hispanic or latino	female	white	-24415
+ALCH-B2QI	ALCH	not hispanic or latino	male	white	-16793
+ALCH-B2R1	ALCH	not hispanic or latino	female	white	-25058
+ALCH-B2RA	ALCH	not hispanic or latino	female	white	-22930
+ALCH-B2SN	ALCH	not hispanic or latino	female	white	-26506
+ALCH-B2ST	ALCH	not hispanic or latino	male	black or african american	-26416
+ALCH-B2T9	ALCH	not hispanic or latino	female	white	-25845
+ALCH-B2TH	ALCH	not hispanic or latino	female	white	-21452
+ALCH-B2U0	ALCH	not hispanic or latino	male	asian	-30017
+ALCH-B2U7	ALCH	not hispanic or latino	male	white	-21825
+ALCH-B2UI	ALCH	hispanic or latino	male	white	-20416
+ALCH-B2UY	ALCH	not hispanic or latino	male	white	-21275
+ALCH-B2V1	ALCH	not hispanic or latino	female	white	-21515
+ALCH-B2VX	ALCH	not hispanic or latino	male	asian	-18047
+ALCH-B2X0	ALCH	not hispanic or latino	male	white	-24793
+ALCH-B2X1	ALCH	Unknown	male	white	-24730
+ALCH-B2X5	ALCH	not hispanic or latino	female	white	-24390
+ALCH-B2X6	ALCH	not hispanic or latino	male	white	-24059
+ALCH-B2XS	ALCH	not hispanic or latino	female	white	-23141
+ALCH-B2XV	ALCH	not hispanic or latino	male	white	-25161
+ALCH-B34B	ALCH	not hispanic or latino	female	white	-25758
+ALCH-B34J	ALCH	not hispanic or latino	male	white	-25276
+ALCH-B355	ALCH	not hispanic or latino	female	white	-23334
+ALCH-B362	ALCH	not hispanic or latino	male	white	-26468
+ALCH-B364	ALCH	not hispanic or latino	male	asian	-13185
+ALCH-B36W	ALCH	not hispanic or latino	male	white	-27154
+ALCH-B37Q	ALCH	not hispanic or latino	male	white	-28865
+ALCH-B37S	ALCH	hispanic or latino	male	Unknown	-22980
+ALCH-B38G	ALCH	not reported	female	white	-26597
+ALCH-B39H	ALCH	not hispanic or latino	male	white	-24325
+ALCH-B39Y	ALCH	not hispanic or latino	male	asian	-21946
+ALCH-B3A1	ALCH	not hispanic or latino	male	white	-27166
+ALCH-B3AR	ALCH	not hispanic or latino	male	white	-25766
+ALCH-B3CP	ALCH	not hispanic or latino	female	white	-26716
+ALCH-B3DO	ALCH	not hispanic or latino	female	white	-27051
+ALCH-B3DR	ALCH	not hispanic or latino	female	white	-26292
+ALCH-B3E6	ALCH	not hispanic or latino	male	white	-26196
+ALCH-B3EX	ALCH	not hispanic or latino	female	asian	-27845
+ALCH-B3EY	ALCH	not hispanic or latino	female	white	-24783
+ALCH-B3FQ	ALCH	not hispanic or latino	female	white	-24570
+ALCH-B3FS	ALCH	not hispanic or latino	female	white	-25969
